@@ -12,7 +12,7 @@ with open(f"{filename}.md", "r+") as file:
     input_string = input_string.replace(key, value)
 
   # Move the file pointer to the beginning of the file
-  file.seek(0)
+  # file.seek(0)
 
   # Write the output string to the file
   with open(f"{filename}-output.md", "w") as output:

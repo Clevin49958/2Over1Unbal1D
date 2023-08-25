@@ -29,7 +29,7 @@ Kevin Hu - Zachary Yan 2/1 with unbal 1D
  - 1<font color=red>&hearts;</font>: 5+<font color=red>&hearts;</font> (10)11-22 HCP
  - !1S: 5+<font color=blue>&spades;</font> (10)11-22 HCP
  <!-- TODO: 1NT -->
- - 1NT: 15-17 HCP, can have 5M, 6m (usually doesn't have 4 card side suit if maximum?)????
+ - 1NT: 15-17 HCP, can have 5M, 6m (usually doesn't have 4 card side suit if maximum)
  - 2<font color=green>&clubs;</font>: 22+ HCP Bal, or 20+ Unbal
  - 2<font color=orange>&diams;</font>/2<font color=red>&hearts;</font>/2<font color=blue>&spades;</font>: 
     - Weak, preemptive
@@ -38,7 +38,7 @@ Kevin Hu - Zachary Yan 2/1 with unbal 1D
       - Vul, 6, 6-10 HCP
       - Unfav, 6, 6-10 HCP AJT9xx+
  - 2NT: 20-21 Bal, can have 5M, 6m
- - 3x:
+ - 3x: NAT
  - 3NT:
    - Nonvul: normal 4M preempt
    - Vul: Gambling 7 card **any** suit
@@ -51,7 +51,7 @@ Kevin Hu - Zachary Yan 2/1 with unbal 1D
  - 1<font color=blue>&spades;</font>: No 4M, or 5+<font color=orange>&diams;</font> + 4M GF
  - 1NT: 11-12, bal
  - 2<font color=green>&clubs;</font>: 11+ 5+<font color=green>&clubs;</font>
- - 2<font color=orange>&diams;</font>: 5+!, no 4M
+ - 2<font color=orange>&diams;</font>: 6+<font color=orange>&diams;</font>, no 4M
  - 2M: 6M, 4-7 HCP
  - 2NT: (5)6+<font color=green>&clubs;</font>, 0-6 HCP
  - 3C: (5)6+<font color=green>&clubs;</font> 7-10
@@ -59,7 +59,10 @@ Kevin Hu - Zachary Yan 2/1 with unbal 1D
 
 General response to XYZ:
 Optionaly break 2<font color=green>&clubs;</font> - 2<font color=orange>&diams;</font> when 15+
- - 2!oM: 4!oM
+ - 2M: 
+   - after confirming 3 card: anti-positional
+   - after denying 3 card: Hx
+ - 2oM: 4oM
  - 2NT: waiting
  - 3<font color=green>&clubs;</font>: 5<font color=green>&clubs;</font>
  - 3<font color=orange>&diams;</font>: 4<font color=orange>&diams;</font>5<font color=green>&clubs;</font>
@@ -87,11 +90,18 @@ Optionaly break 2<font color=green>&clubs;</font> - 2<font color=orange>&diams;<
    - 3<font color=green>&clubs;</font>/<font color=orange>&diams;</font>/<font color=red>&hearts;</font>/<font color=blue>&spades;</font>: Shit/N/L/H Shortage
  - 2<font color=blue>&spades;</font>: 6+<font color=green>&clubs;</font>, 3<font color=red>&hearts;</font>, (14)15+
    - 2NT: ask
-     - 3<font color=green>&clubs;</font>/<font color=orange>&diams;</font>/<font color=red>&hearts;</font>: NLH
-       - 3NT: To Play
-       - +1: Wiggle
-       - +2: Agree <font color=red>&hearts;</font>
-       - +3: Agree <font color=green>&clubs;</font>
+      - 3<font color=green>&clubs;</font>: No Shortage
+         - 3<font color=orange>&diams;</font>: Wiggle
+         - 3<font color=red>&hearts;</font>: Agrees <font color=red>&hearts;</font>
+         - 3<font color=blue>&spades;</font>: Agrees <font color=green>&clubs;</font>
+      - 3<font color=orange>&diams;</font>: <font color=orange>&diams;</font> Shortage
+         - 3<font color=red>&hearts;</font>: Wiggle
+         - 3<font color=blue>&spades;</font>: Agrees <font color=red>&hearts;</font>
+         - 4<font color=green>&clubs;</font>: Agrees <font color=green>&clubs;</font>
+      - 3<font color=red>&hearts;</font>: <font color=blue>&spades;</font> Shortage
+         - 3<font color=blue>&spades;</font>: Wiggle
+         - 4<font color=green>&clubs;</font>: Agrees <font color=red>&hearts;</font>
+         - 4<font color=orange>&diams;</font> Agrees <font color=green>&clubs;</font>
    - 3<font color=green>&clubs;</font>: To Play
    - 3<font color=orange>&diams;</font>: **show** stopper
    - 3<font color=red>&hearts;</font>: To Play
@@ -181,9 +191,56 @@ Optionaly break 2<font color=green>&clubs;</font> - 2<font color=orange>&diams;<
    - 2NT: Nat Invite
    - 3<font color=green>&clubs;</font>: Nat Invite
    - 3<font color=orange>&diams;</font>/<font color=red>&hearts;</font>/<font color=blue>&spades;</font> LMH Shortage 6+<font color=green>&clubs;</font>
- - 2!NT: 3+<font color=green>&clubs;</font>, 18-19 HCP
+ - 2NT: 3+<font color=green>&clubs;</font>, 18-19 HCP
 
-## 1<font color=green>&clubs;</font> - 2<font color=orange>&diams;</font>
+## 1<font color=green>&clubs;</font> - 2<font color=orange>&diams;</font>:
+2<font color=orange>&diams;</font>: 6+<font color=orange>&diams;</font>, GF
+ - 2<font color=red>&hearts;</font>: ART, Relay Promises 2+<font color=orange>&diams;</font>
+   - 2<font color=blue>&spades;</font>: Min
+      - 2NT: Ask
+         - 3<font color=green>&clubs;</font>: No Shortage
+            - 3<font color=orange>&diams;</font>: Wiggle
+            - 3<font color=red>&hearts;</font>: Agrees <font color=green>&clubs;</font>
+            - 3<font color=blue>&spades;</font>: Agrees <font color=orange>&diams;</font>
+         - 3<font color=orange>&diams;</font>: <font color=green>&clubs;</font> Shortage
+            - 3<font color=red>&hearts;</font>: Wiggle
+            - 3<font color=blue>&spades;</font>: Agrees <font color=orange>&diams;</font>
+         - 3<font color=red>&hearts;</font>: <font color=red>&hearts;</font> Shortage
+            - 3<font color=blue>&spades;</font>: Wiggle
+            - 4<font color=green>&clubs;</font>: Agrees <font color=green>&clubs;</font>
+            - 4<font color=orange>&diams;</font>: Agrees <font color=orange>&diams;</font>
+         - 3<font color=blue>&spades;</font>: <font color=blue>&spades;</font> Shortage
+            - 4<font color=green>&clubs;</font>: Agrees <font color=green>&clubs;</font>
+            - 4<font color=orange>&diams;</font>: Agrees <font color=orange>&diams;</font>
+         - 3NT: <font color=blue>&spades;</font> Shortage
+   - 2NT: Extras, No Shortage
+      - 3<font color=green>&clubs;</font>: Wiggle
+      - 3<font color=orange>&diams;</font>: Agrees <font color=green>&clubs;</font>
+      - 3<font color=red>&hearts;</font>: Agrees <font color=orange>&diams;</font>
+   - 3<font color=green>&clubs;</font>: Extras, <font color=green>&clubs;</font> Shortage
+      - 3<font color=orange>&diams;</font>: Wiggle
+      - 3<font color=red>&hearts;</font>: Agrees <font color=orange>&diams;</font>
+   - 3<font color=orange>&diams;</font>: Extras, <font color=red>&hearts;</font> Shortage
+      - 3<font color=red>&hearts;</font>: Wiggle
+      - 3<font color=blue>&spades;</font>: Agrees <font color=green>&clubs;</font>
+      - 4<font color=green>&clubs;</font>: Agrees <font color=orange>&diams;</font>
+   - 3<font color=red>&hearts;</font>: Extras, <font color=blue>&spades;</font> Shortage
+      - 3<font color=blue>&spades;</font>: Wiggle
+      - 4<font color=green>&clubs;</font>: Agrees <font color=green>&clubs;</font>
+      - 4<font color=orange>&diams;</font>: Agrees <font color=orange>&diams;</font>
+ - 2<font color=blue>&spades;</font>: 6+<font color=green>&clubs;</font> 5M
+   - 2NT: Ask
+      - 3<font color=green>&clubs;</font>: <font color=red>&hearts;</font>
+         - 3<font color=orange>&diams;</font>: Agrees <font color=red>&hearts;</font>
+         - 3<font color=red>&hearts;</font>: Agrees <font color=green>&clubs;</font>
+      - 3<font color=orange>&diams;</font>: <font color=blue>&spades;</font>
+         - 3<font color=red>&hearts;</font>: Agrees <font color=blue>&spades;</font>
+         - 3<font color=blue>&spades;</font>: Agrees <font color=green>&clubs;</font>
+   - 3<font color=orange>&diams;</font>: Nat
+ - 2NT: (43)51 or xx diamond
+ - 3<font color=green>&clubs;</font>: NAT
+ - 3<font color=orange>&diams;</font>: SHIT 3<font color=orange>&diams;</font>
+ 
 
 ## Over interference:
 ### 1<font color=green>&clubs;</font> - 1<font color=blue>&spades;</font> 
@@ -191,6 +248,82 @@ Optionaly break 2<font color=green>&clubs;</font> - 2<font color=orange>&diams;<
  - XX: no stopper
  - 1NT: 11-14 spade stopper
  - Pass: 4S
+
+# 1<font color=orange>&diams;</font> Opening
+4+<font color=orange>&diams;</font> always unbalanced (might be 5422). 5+<font color=orange>&diams;</font> unless =4441, for all 11+ hands.
+
+General approach: After 1<font color=orange>&diams;</font>-1M, opener transfer his second suit, with up to 17 HCP. Accepting the transfer shows a weak hand and $\leq 9$ HCP
+
+ - 1<font color=red>&hearts;</font>: 4+<font color=red>&hearts;</font>
+ - 1<font color=blue>&spades;</font>: 4+<font color=blue>&spades;</font>
+ - 1NT: 6-10
+ - 2<font color=green>&clubs;</font>: 5+<font color=green>&clubs;</font> GF
+ - 2<font color=orange>&diams;</font>: 4+<font color=orange>&diams;</font> 10+, no 4M
+ - 2M: 6M, 4-7 HCP
+ - 2NT: 11-12,
+ - 3<font color=green>&clubs;</font>: 6+<font color=green>&clubs;</font>, weak
+ - 3<font color=orange>&diams;</font>: 4+<font color=orange>&diams;</font>, 6-10
+
+## 1<font color=orange>&diams;</font> - 1<font color=red>&hearts;</font>
+
+ - 1<font color=blue>&spades;</font>: 4<font color=blue>&spades;</font>, 17-
+   - XYZ
+ - 1NT: 4+<font color=green>&clubs;</font>, (5+<font color=orange>&diams;</font>), 17-
+   - 2<font color=green>&clubs;</font>: To play
+   - 2<font color=orange>&diams;</font>: To play
+   - 2<font color=red>&hearts;</font>: To play
+   - 2<font color=blue>&spades;</font>: 4th Suit GF
+     - 2NT: !2254
+     - 3<font color=green>&clubs;</font>: 5+<font color=green>&clubs;</font>,
+     - 3<font color=orange>&diams;</font>: 6+<font color=orange>&diams;</font>,
+     - 3<font color=red>&hearts;</font>: 3<font color=red>&hearts;</font>,
+     - 3<font color=blue>&spades;</font>: 3<font color=blue>&spades;</font>
+ - 2<font color=green>&clubs;</font>: 6+<font color=orange>&diams;</font>, 15-
+   - 2<font color=orange>&diams;</font>: To Play
+   - 2<font color=red>&hearts;</font>: To Play
+   - 2<font color=blue>&spades;</font>: ART, GF
+ - 2<font color=orange>&diams;</font>: 4<font color=red>&hearts;</font>, 11-14
+   - 2<font color=red>&hearts;</font>: To Play
+   - 2NT: Ask
+ - 2<font color=red>&hearts;</font>: 4<font color=blue>&spades;</font>, reverse, 18+
+ - 2<font color=blue>&spades;</font>: 6+<font color=orange>&diams;</font>, 3<font color=red>&hearts;</font>, 14+
+ - 2NT: 14-17, 4<font color=red>&hearts;</font>, including 4441, 5+<font color=orange>&diams;</font>4<font color=red>&hearts;</font>
+ - 3<font color=green>&clubs;</font>: NAT, =xx54+, 18+
+ - 3<font color=orange>&diams;</font>: 6+<font color=orange>&diams;</font>, 16-18
+ - 3<font color=red>&hearts;</font>: =2452, 15-17
+ - 3<font color=blue>&spades;</font>/4<font color=green>&clubs;</font>/4<font color=orange>&diams;</font>: splinter
+ - 3NT: GF <font color=orange>&diams;</font>, 
+
+## 1<font color=orange>&diams;</font> - 1<font color=blue>&spades;</font>
+ - 1NT: 4+<font color=green>&clubs;</font>, (5+<font color=orange>&diams;</font>), 17-
+   - 2<font color=green>&clubs;</font>: To play
+   - 2<font color=orange>&diams;</font>: To play
+   - 2<font color=red>&hearts;</font>: 4th Suit GF
+     - 2<font color=blue>&spades;</font>: nothing to show, anti-positional
+     - 2NT: <font color=red>&hearts;</font> stopper
+     - 3<font color=green>&clubs;</font>: 5+<font color=green>&clubs;</font>,
+     - 3<font color=orange>&diams;</font>: 6+<font color=orange>&diams;</font>,
+     - 3<font color=red>&hearts;</font>: 3<font color=red>&hearts;</font>?,
+     - 3<font color=blue>&spades;</font>: 3<font color=blue>&spades;</font>
+   - 2<font color=blue>&spades;</font>: To play
+ - 2<font color=green>&clubs;</font>: 6+<font color=orange>&diams;</font>, 15-
+   - 2<font color=orange>&diams;</font>: To Play
+   - 2<font color=red>&hearts;</font>: ART, GF
+   - 2<font color=blue>&spades;</font>: To Play
+ - 2<font color=orange>&diams;</font>: 4<font color=red>&hearts;</font>, 17-
+   - 2<font color=red>&hearts;</font>: To Play
+   - 2<font color=blue>&spades;</font>: To Play
+   - 3<font color=green>&clubs;</font>: 4th suit GF
+ - 2<font color=red>&hearts;</font>: 4<font color=blue>&spades;</font>, 11-14
+ - 2<font color=blue>&spades;</font>: 4<font color=red>&hearts;</font>, 18+
+ - 2NT: 14-17, 4<font color=blue>&spades;</font>, including 4441, 5+<font color=orange>&diams;</font>4<font color=blue>&spades;</font>
+ - 3<font color=green>&clubs;</font>: NAT, =xx54+, 18+
+ - 3<font color=orange>&diams;</font>: 6+<font color=orange>&diams;</font>, 16-18
+ - 3<font color=red>&hearts;</font>: 6+<font color=orange>&diams;</font>, 3<font color=blue>&spades;</font>
+ - 3<font color=blue>&spades;</font>: =2452, 15-17
+ - 3NT: GF <font color=orange>&diams;</font>
+ - 4<font color=green>&clubs;</font>/4<font color=red>&hearts;</font>: splinter
+ - 4<font color=orange>&diams;</font>: <font color=orange>&diams;</font> Suit set
 
 # 3NT Opening
 3NT: nil: normal 4M preempt; vul: gambling

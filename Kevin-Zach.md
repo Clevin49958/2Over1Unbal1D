@@ -29,7 +29,7 @@ Kevin Hu - Zachary Yan 2/1 with unbal 1D
  - 1!H: 5+!H (10)11-22 HCP
  - !1S: 5+!S (10)11-22 HCP
  <!-- TODO: 1NT -->
- - 1NT: 15-17 HCP, can have 5M, 6m (usually doesn't have 4 card side suit if maximum?)????
+ - 1NT: 15-17 HCP, can have 5M, 6m (usually doesn't have 4 card side suit if maximum)
  - 2!C: 22+ HCP Bal, or 20+ Unbal
  - 2!D/2!H/2!S: 
     - Weak, preemptive
@@ -38,7 +38,7 @@ Kevin Hu - Zachary Yan 2/1 with unbal 1D
       - Vul, 6, 6-10 HCP
       - Unfav, 6, 6-10 HCP AJT9xx+
  - 2NT: 20-21 Bal, can have 5M, 6m
- - 3x:
+ - 3x: NAT
  - 3NT:
    - Nonvul: normal 4M preempt
    - Vul: Gambling 7 card **any** suit
@@ -51,7 +51,7 @@ Kevin Hu - Zachary Yan 2/1 with unbal 1D
  - 1!S: No 4M, or 5+!D + 4M GF
  - 1NT: 11-12, bal
  - 2!C: 11+ 5+!C
- - 2!D: 5+!, no 4M
+ - 2!D: 6+!D, no 4M
  - 2M: 6M, 4-7 HCP
  - 2NT: (5)6+!C, 0-6 HCP
  - 3C: (5)6+!C 7-10
@@ -59,7 +59,10 @@ Kevin Hu - Zachary Yan 2/1 with unbal 1D
 
 General response to XYZ:
 Optionaly break 2!C - 2!D when 15+
- - 2!oM: 4!oM
+ - 2M: 
+   - after confirming 3 card: anti-positional
+   - after denying 3 card: Hx
+ - 2oM: 4oM
  - 2NT: waiting
  - 3!C: 5!C
  - 3!D: 4!D5!C
@@ -87,11 +90,18 @@ Optionaly break 2!C - 2!D when 15+
    - 3!C/!D/!H/!S: Shit/N/L/H Shortage
  - 2!S: 6+!C, 3!H, (14)15+
    - 2NT: ask
-     - 3!C/!D/!H: NLH
-       - 3NT: To Play
-       - +1: Wiggle
-       - +2: Agree !H
-       - +3: Agree !C
+      - 3!C: No Shortage
+         - 3!D: Wiggle
+         - 3!H: Agrees !H
+         - 3!S: Agrees !C
+      - 3!D: !D Shortage
+         - 3!H: Wiggle
+         - 3!S: Agrees !H
+         - 4!C: Agrees !C
+      - 3!H: !S Shortage
+         - 3!S: Wiggle
+         - 4!C: Agrees !H
+         - 4!D Agrees !C
    - 3!C: To Play
    - 3!D: **show** stopper
    - 3!H: To Play
@@ -181,10 +191,56 @@ Optionaly break 2!C - 2!D when 15+
    - 2NT: Nat Invite
    - 3!C: Nat Invite
    - 3!D/!H/!S LMH Shortage 6+!C
- - 2!NT: 3+!C, 18-19 HCP
+ - 2NT: 3+!C, 18-19 HCP
 
 ## 1!C - 2!D:
-2!D: 6+!D, 
+2!D: 6+!D, GF
+ - 2!H: ART, Relay Promises 2+!D
+   - 2!S: Min
+      - 2NT: Ask
+         - 3!C: No Shortage
+            - 3!D: Wiggle
+            - 3!H: Agrees !C
+            - 3!S: Agrees !D
+         - 3!D: !C Shortage
+            - 3!H: Wiggle
+            - 3!S: Agrees !D
+         - 3!H: !H Shortage
+            - 3!S: Wiggle
+            - 4!C: Agrees !C
+            - 4!D: Agrees !D
+         - 3!S: !S Shortage
+            - 4!C: Agrees !C
+            - 4!D: Agrees !D
+         - 3NT: !S Shortage
+   - 2NT: Extras, No Shortage
+      - 3!C: Wiggle
+      - 3!D: Agrees !C
+      - 3!H: Agrees !D
+   - 3!C: Extras, !C Shortage
+      - 3!D: Wiggle
+      - 3!H: Agrees !D
+   - 3!D: Extras, !H Shortage
+      - 3!H: Wiggle
+      - 3!S: Agrees !C
+      - 4!C: Agrees !D
+   - 3!H: Extras, !S Shortage
+      - 3!S: Wiggle
+      - 4!C: Agrees !C
+      - 4!D: Agrees !D
+ - 2!S: 6+!C 5M
+   - 2NT: Ask
+      - 3!C: !H
+         - 3!D: Agrees !H
+         - 3!H: Agrees !C
+      - 3!D: !S
+         - 3!H: Agrees !S
+         - 3!S: Agrees !C
+   - 3!D: Nat
+ - 2NT: (43)51 or xx diamond
+ - 3!C: NAT
+ - 3!D: SHIT 3!D
+ 
 
 ## Over interference:
 ### 1!C - 1!S 
@@ -192,6 +248,82 @@ Optionaly break 2!C - 2!D when 15+
  - XX: no stopper
  - 1NT: 11-14 spade stopper
  - Pass: 4S
+
+# 1!D Opening
+4+!D always unbalanced (might be 5422). 5+!D unless =4441, for all 11+ hands.
+
+General approach: After 1!D-1M, opener transfer his second suit, with up to 17 HCP. Accepting the transfer shows a weak hand and $\leq 9$ HCP
+
+ - 1!H: 4+!H
+ - 1!S: 4+!S
+ - 1NT: 6-10
+ - 2!C: 5+!C GF
+ - 2!D: 4+!D 10+, no 4M
+ - 2M: 6M, 4-7 HCP
+ - 2NT: 11-12,
+ - 3!C: 6+!C, weak
+ - 3!D: 4+!D, 6-10
+
+## 1!D - 1!H
+
+ - 1!S: 4!S, 17-
+   - XYZ
+ - 1NT: 4+!C, (5+!D), 17-
+   - 2!C: To play
+   - 2!D: To play
+   - 2!H: To play
+   - 2!S: 4th Suit GF
+     - 2NT: !2254
+     - 3!C: 5+!C,
+     - 3!D: 6+!D,
+     - 3!H: 3!H,
+     - 3!S: 3!S
+ - 2!C: 6+!D, 15-
+   - 2!D: To Play
+   - 2!H: To Play
+   - 2!S: ART, GF
+ - 2!D: 4!H, 11-14
+   - 2!H: To Play
+   - 2NT: Ask
+ - 2!H: 4!S, reverse, 18+
+ - 2!S: 6+!D, 3!H, 14+
+ - 2NT: 14-17, 4!H, including 4441, 5+!D4!H
+ - 3!C: NAT, =xx54+, 18+
+ - 3!D: 6+!D, 16-18
+ - 3!H: =2452, 15-17
+ - 3!S/4!C/4!D: splinter
+ - 3NT: GF !D, 
+
+## 1!D - 1!S
+ - 1NT: 4+!C, (5+!D), 17-
+   - 2!C: To play
+   - 2!D: To play
+   - 2!H: 4th Suit GF
+     - 2!S: nothing to show, anti-positional
+     - 2NT: !H stopper
+     - 3!C: 5+!C,
+     - 3!D: 6+!D,
+     - 3!H: 3!H?,
+     - 3!S: 3!S
+   - 2!S: To play
+ - 2!C: 6+!D, 15-
+   - 2!D: To Play
+   - 2!H: ART, GF
+   - 2!S: To Play
+ - 2!D: 4!H, 17-
+   - 2!H: To Play
+   - 2!S: To Play
+   - 3!C: 4th suit GF
+ - 2!H: 4!S, 11-14
+ - 2!S: 4!H, 18+
+ - 2NT: 14-17, 4!S, including 4441, 5+!D4!S
+ - 3!C: NAT, =xx54+, 18+
+ - 3!D: 6+!D, 16-18
+ - 3!H: 6+!D, 3!S
+ - 3!S: =2452, 15-17
+ - 3NT: GF !D
+ - 4!C/4!H: splinter
+ - 4!D: !D Suit set
 
 # 3NT Opening
 3NT: nil: normal 4M preempt; vul: gambling
