@@ -34,7 +34,7 @@ Kevin Hu - Zachary Yan 2/1 with unbal 1D
  - 1!C: 2+!C all balanced 11-14,18-19 (can have 5!D2!C) or NAT !C
  - 1!D: 4+ Unbal. 5+!D unless =4441. 
  - 1!H: 5+!H (10)11-22 HCP
- - !1S: 5+!S (10)11-22 HCP
+ - 1!S: 5+!S (10)11-22 HCP
  <!-- TODO: 1NT -->
  - 1NT: 15-17 HCP, can have 5M, 6m (usually doesn't have 4 card side suit if maximum)
  - 2!C: 22+ HCP Bal, or 20+ Unbal
@@ -116,7 +116,7 @@ Over 1!C or 1!D, if XYZ is available, responder jump rebid major is GF, otherwis
    - 3!S: **show** stopper
    - 4!D: Retransfer
  - 2NT: 18-19, BAL
-   - 3!C: force 3D
+   - 3!C: force 3!D
      - 3!D
        - 3!H: drop
        - 3!S: 6!H4!S GF
@@ -143,7 +143,7 @@ Over 1!C or 1!D, if XYZ is available, responder jump rebid major is GF, otherwis
  - 4!H: 6+!C 4+!H (any usually shit)
 ## 1C - 1H:
 
- - 1S: 3!S 10-17
+ - 1!S: 3!S 10-17
 
 ## 1C - 1S:
  - 1NT: 11-14 BAL
@@ -177,8 +177,8 @@ Over 1!C or 1!D, if XYZ is available, responder jump rebid major is GF, otherwis
          - 3!S: 4!C
    - 3!H: 4!C
    - 3!S: 5!C
- - 3C: GF 6+!C
- - 3D: 5!D(332) 18-19:
+ - 3!C: GF 6+!C
+ - 3!D: 5!D(332) 18-19:
    - 3NT: To Play
    - Anything else: Cue
  
@@ -255,7 +255,7 @@ Over 1!C or 1!D, if XYZ is available, responder jump rebid major is GF, otherwis
 1!C - 1!S (X):
  - XX: no stopper
  - 1NT: 11-14 spade stopper
- - Pass: 4S
+ - Pass: 4!S
 
 # 1D Opening
 4+!D always unbalanced (might be 5422). 5+!D unless =4441, for all 11+ hands.
@@ -342,7 +342,7 @@ General approach: After 1!D-1M, opener transfer his second suit, with up to 17 H
     - 4!S: Slam in H
     - 4NT~5!H: keycard response in !S
  - 4!D: Slam force
-    - 4H/4S: reverse. Follow by 4S/4NT keycard
+    - 4!H/4!S: reverse. Follow by 4!S/4NT keycard
  - 4!H: P/C
 
 

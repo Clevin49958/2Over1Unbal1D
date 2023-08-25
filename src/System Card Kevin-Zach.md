@@ -34,7 +34,7 @@ Kevin Hu - Zachary Yan 2/1 with unbal 1D
  - 1<font color=green>&clubs;</font>: 2+<font color=green>&clubs;</font> all balanced 11-14,18-19 (can have 5<font color=orange>&diams;</font>2<font color=green>&clubs;</font>) or NAT <font color=green>&clubs;</font>
  - 1<font color=orange>&diams;</font>: 4+ Unbal. 5+<font color=orange>&diams;</font> unless =4441. 
  - 1<font color=red>&hearts;</font>: 5+<font color=red>&hearts;</font> (10)11-22 HCP
- - !1S: 5+<font color=blue>&spades;</font> (10)11-22 HCP
+ - 1<font color=blue>&spades;</font>: 5+<font color=blue>&spades;</font> (10)11-22 HCP
  <!-- TODO: 1NT -->
  - 1NT: 15-17 HCP, can have 5M, 6m (usually doesn't have 4 card side suit if maximum)
  - 2<font color=green>&clubs;</font>: 22+ HCP Bal, or 20+ Unbal
@@ -116,7 +116,7 @@ Over 1<font color=green>&clubs;</font> or 1<font color=orange>&diams;</font>, if
    - 3<font color=blue>&spades;</font>: **show** stopper
    - 4<font color=orange>&diams;</font>: Retransfer
  - 2NT: 18-19, BAL
-   - 3<font color=green>&clubs;</font>: force 3D
+   - 3<font color=green>&clubs;</font>: force 3<font color=orange>&diams;</font>
      - 3<font color=orange>&diams;</font>
        - 3<font color=red>&hearts;</font>: drop
        - 3<font color=blue>&spades;</font>: 6<font color=red>&hearts;</font>4<font color=blue>&spades;</font> GF
@@ -143,7 +143,7 @@ Over 1<font color=green>&clubs;</font> or 1<font color=orange>&diams;</font>, if
  - 4<font color=red>&hearts;</font>: 6+<font color=green>&clubs;</font> 4+<font color=red>&hearts;</font> (any usually shit)
 ## 1C - 1H:
 
- - 1S: 3<font color=blue>&spades;</font> 10-17
+ - 1<font color=blue>&spades;</font>: 3<font color=blue>&spades;</font> 10-17
 
 ## 1C - 1S:
  - 1NT: 11-14 BAL
@@ -177,8 +177,8 @@ Over 1<font color=green>&clubs;</font> or 1<font color=orange>&diams;</font>, if
          - 3<font color=blue>&spades;</font>: 4<font color=green>&clubs;</font>
    - 3<font color=red>&hearts;</font>: 4<font color=green>&clubs;</font>
    - 3<font color=blue>&spades;</font>: 5<font color=green>&clubs;</font>
- - 3C: GF 6+<font color=green>&clubs;</font>
- - 3D: 5<font color=orange>&diams;</font>(332) 18-19:
+ - 3<font color=green>&clubs;</font>: GF 6+<font color=green>&clubs;</font>
+ - 3<font color=orange>&diams;</font>: 5<font color=orange>&diams;</font>(332) 18-19:
    - 3NT: To Play
    - Anything else: Cue
  
@@ -255,7 +255,7 @@ Over 1<font color=green>&clubs;</font> or 1<font color=orange>&diams;</font>, if
 1<font color=green>&clubs;</font> - 1<font color=blue>&spades;</font> (X):
  - XX: no stopper
  - 1NT: 11-14 spade stopper
- - Pass: 4S
+ - Pass: 4<font color=blue>&spades;</font>
 
 # 1D Opening
 4+<font color=orange>&diams;</font> always unbalanced (might be 5422). 5+<font color=orange>&diams;</font> unless =4441, for all 11+ hands.
@@ -342,7 +342,7 @@ General approach: After 1<font color=orange>&diams;</font>-1M, opener transfer h
     - 4<font color=blue>&spades;</font>: Slam in H
     - 4NT~5<font color=red>&hearts;</font>: keycard response in <font color=blue>&spades;</font>
  - 4<font color=orange>&diams;</font>: Slam force
-    - 4H/4S: reverse. Follow by 4S/4NT keycard
+    - 4<font color=red>&hearts;</font>/4<font color=blue>&spades;</font>: reverse. Follow by 4<font color=blue>&spades;</font>/4NT keycard
  - 4<font color=red>&hearts;</font>: P/C
 
 
