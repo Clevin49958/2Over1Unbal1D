@@ -58,7 +58,7 @@ Kevin Hu - Zachary Yan 2/1 with unbal 1D
  - 1<font color=blue>&spades;</font>: No 4M, or 5+<font color=orange>&diams;</font> + 4M GF
  - 1NT: 11-12, bal
  - 2<font color=green>&clubs;</font>: 11+ 5+<font color=green>&clubs;</font>
- - 2<font color=orange>&diams;</font>: 6+<font color=orange>&diams;</font>, no 4M
+ - 2<font color=orange>&diams;</font>: 6+<font color=orange>&diams;</font>, no 4M, GF
  - 2M: 6M, 4-7 HCP
  - 2NT: (5)6+<font color=green>&clubs;</font>, 0-6 HCP
  - 3C: (5)6+<font color=green>&clubs;</font> 7-10
@@ -72,8 +72,9 @@ Optionaly break 2<font color=green>&clubs;</font> - 2<font color=orange>&diams;<
  - 2oM: 4oM
  - 2NT: waiting
  - 3<font color=green>&clubs;</font>: 5<font color=green>&clubs;</font>
- - 3<font color=orange>&diams;</font>: 4<font color=orange>&diams;</font>5<font color=green>&clubs;</font>
-  
+ - 3<font color=orange>&diams;</font>: 5<font color=orange>&diams;</font>
+
+Over 1<font color=green>&clubs;</font> or 1<font color=orange>&diams;</font>, if XYZ is available, responder jump rebid major is GF, otherwise INV.
 
 ## 1<font color=green>&clubs;</font> - 1<font color=orange>&diams;</font>:
 1<font color=orange>&diams;</font>: 4<font color=red>&hearts;</font>
@@ -93,8 +94,8 @@ Optionaly break 2<font color=green>&clubs;</font> - 2<font color=orange>&diams;<
  - 2<font color=orange>&diams;</font>: 4+<font color=orange>&diams;</font>, 5+<font color=green>&clubs;</font>, (13)16+
    - 2<font color=blue>&spades;</font>: Blackout 0-8
  - 2<font color=red>&hearts;</font>: 4<font color=red>&hearts;</font>, 11-14,
-  - 2NT: GF Inquiry
-   - 3<font color=green>&clubs;</font>/<font color=orange>&diams;</font>/<font color=red>&hearts;</font>/<font color=blue>&spades;</font>: Shit/N/L/H Shortage
+    - 2NT: GF Inquiry
+       - 3<font color=green>&clubs;</font>/<font color=orange>&diams;</font>/<font color=red>&hearts;</font>/<font color=blue>&spades;</font>: Shit/N/L/H Shortage
  - 2<font color=blue>&spades;</font>: 6+<font color=green>&clubs;</font>, 3<font color=red>&hearts;</font>, (14)15+
    - 2NT: ask
       - 3<font color=green>&clubs;</font>: No Shortage
@@ -129,12 +130,12 @@ Optionaly break 2<font color=green>&clubs;</font> - 2<font color=orange>&diams;<
  - 3<font color=green>&clubs;</font>: 6+<font color=green>&clubs;</font>, 16-18
    - 3<font color=orange>&diams;</font> wiggle?
    - 3<font color=red>&hearts;</font>/<font color=blue>&spades;</font>: 6+<font color=red>&hearts;</font>/<font color=blue>&spades;</font> GF
- - 3<font color=orange>&diams;</font>: (16)17-18 or 18-19 BAL
+ - 3<font color=orange>&diams;</font>: 4<font color=red>&hearts;</font>, (16)17-18 or 18-19 BAL
    - 3<font color=red>&hearts;</font>: To play
-   - 3<font color=blue>&spades;</font>: ASK
-    - 3NT/4<font color=green>&clubs;</font>/<font color=orange>&diams;</font>: Bal/L/H
-   - 4<font color=orange>&diams;</font>: re-transfer
- - 3<font color=red>&hearts;</font>: 13-17+ Unbal Inv
+     - 3<font color=blue>&spades;</font>: ASK
+       - 3NT/4<font color=green>&clubs;</font>/<font color=orange>&diams;</font>: Bal/L/H
+     - 4<font color=orange>&diams;</font>: re-transfer
+ - 3<font color=red>&hearts;</font>: 4<font color=red>&hearts;</font>, 13-17+ Unbal Inv
  - 3<font color=blue>&spades;</font>: <font color=blue>&spades;</font> Splinter GF
  - 3NT: GF <font color=green>&clubs;</font>:
  - 4<font color=green>&clubs;</font>: Suit Set <font color=green>&clubs;</font>
@@ -259,7 +260,7 @@ Optionaly break 2<font color=green>&clubs;</font> - 2<font color=orange>&diams;<
 # 1<font color=orange>&diams;</font> Opening
 4+<font color=orange>&diams;</font> always unbalanced (might be 5422). 5+<font color=orange>&diams;</font> unless =4441, for all 11+ hands.
 
-General approach: After 1<font color=orange>&diams;</font>-1M, opener transfer his second suit, with up to 17 HCP. Accepting the transfer shows a weak hand and $\leq 9$ HCP
+General approach: After 1<font color=orange>&diams;</font>-1M, opener transfer his second suit, with up to 17 HCP. Accepting the transfer shows a weak hand and 9- HCP
 
  - 1<font color=red>&hearts;</font>: 4+<font color=red>&hearts;</font>
  - 1<font color=blue>&spades;</font>: 4+<font color=blue>&spades;</font>
@@ -280,7 +281,7 @@ General approach: After 1<font color=orange>&diams;</font>-1M, opener transfer h
    - 2<font color=orange>&diams;</font>: To play
    - 2<font color=red>&hearts;</font>: To play
    - 2<font color=blue>&spades;</font>: 4th Suit GF
-     - 2NT: !2254
+     - 2NT: =2254
      - 3<font color=green>&clubs;</font>: 5+<font color=green>&clubs;</font>,
      - 3<font color=orange>&diams;</font>: 6+<font color=orange>&diams;</font>,
      - 3<font color=red>&hearts;</font>: 3<font color=red>&hearts;</font>,
@@ -298,8 +299,10 @@ General approach: After 1<font color=orange>&diams;</font>-1M, opener transfer h
  - 3<font color=green>&clubs;</font>: NAT, =xx54+, 18+
  - 3<font color=orange>&diams;</font>: 6+<font color=orange>&diams;</font>, 16-18
  - 3<font color=red>&hearts;</font>: =2452, 15-17
- - 3<font color=blue>&spades;</font>/4<font color=green>&clubs;</font>/4<font color=orange>&diams;</font>: splinter
+ - 3<font color=blue>&spades;</font>: <font color=blue>&spades;</font> splinter
  - 3NT: GF <font color=orange>&diams;</font>, 
+ - 4<font color=green>&clubs;</font>: <font color=green>&clubs;</font> splinter
+ - 4<font color=orange>&diams;</font>: <font color=orange>&diams;</font> suit set
 
 ## 1<font color=orange>&diams;</font> - 1<font color=blue>&spades;</font>
  - 1NT: 4+<font color=green>&clubs;</font>, (5+<font color=orange>&diams;</font>), 17-
@@ -310,7 +313,7 @@ General approach: After 1<font color=orange>&diams;</font>-1M, opener transfer h
      - 2NT: <font color=red>&hearts;</font> stopper
      - 3<font color=green>&clubs;</font>: 5+<font color=green>&clubs;</font>,
      - 3<font color=orange>&diams;</font>: 6+<font color=orange>&diams;</font>,
-     - 3<font color=red>&hearts;</font>: 3<font color=red>&hearts;</font>?,
+     - 3<font color=red>&hearts;</font>: 3<font color=red>&hearts;</font>,
      - 3<font color=blue>&spades;</font>: 3<font color=blue>&spades;</font>
    - 2<font color=blue>&spades;</font>: To play
  - 2<font color=green>&clubs;</font>: 6+<font color=orange>&diams;</font>, 15-
@@ -334,12 +337,12 @@ General approach: After 1<font color=orange>&diams;</font>-1M, opener transfer h
 
 # 3NT Opening
 3NT: nil: normal 4M preempt; vul: gambling
- - 4C: SI
-    - 4D/4H: H/S no
-    - 4S: Slam in H
-    - 4NT~5H: keycard response in S
- - 4D: Slam force
+ - 4<font color=green>&clubs;</font>: SI
+    - 4<font color=orange>&diams;</font>/4<font color=red>&hearts;</font>: H/S no
+    - 4<font color=blue>&spades;</font>: Slam in H
+    - 4NT~5<font color=red>&hearts;</font>: keycard response in <font color=blue>&spades;</font>
+ - 4<font color=orange>&diams;</font>: Slam force
     - 4H/4S: reverse. Follow by 4S/4NT keycard
- - 4H: P/C
+ - 4<font color=red>&hearts;</font>: P/C
 
 

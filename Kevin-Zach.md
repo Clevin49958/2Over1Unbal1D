@@ -58,7 +58,7 @@ Kevin Hu - Zachary Yan 2/1 with unbal 1D
  - 1!S: No 4M, or 5+!D + 4M GF
  - 1NT: 11-12, bal
  - 2!C: 11+ 5+!C
- - 2!D: 6+!D, no 4M
+ - 2!D: 6+!D, no 4M, GF
  - 2M: 6M, 4-7 HCP
  - 2NT: (5)6+!C, 0-6 HCP
  - 3C: (5)6+!C 7-10
@@ -72,8 +72,9 @@ Optionaly break 2!C - 2!D when 15+
  - 2oM: 4oM
  - 2NT: waiting
  - 3!C: 5!C
- - 3!D: 4!D5!C
-  
+ - 3!D: 5!D
+
+Over 1!C or 1!D, if XYZ is available, responder jump rebid major is GF, otherwise INV.
 
 ## 1!C - 1!D:
 1!D: 4!H
@@ -93,8 +94,8 @@ Optionaly break 2!C - 2!D when 15+
  - 2!D: 4+!D, 5+!C, (13)16+
    - 2!S: Blackout 0-8
  - 2!H: 4!H, 11-14,
-  - 2NT: GF Inquiry
-   - 3!C/!D/!H/!S: Shit/N/L/H Shortage
+    - 2NT: GF Inquiry
+       - 3!C/!D/!H/!S: Shit/N/L/H Shortage
  - 2!S: 6+!C, 3!H, (14)15+
    - 2NT: ask
       - 3!C: No Shortage
@@ -129,12 +130,12 @@ Optionaly break 2!C - 2!D when 15+
  - 3!C: 6+!C, 16-18
    - 3!D wiggle?
    - 3!H/!S: 6+!H/!S GF
- - 3!D: (16)17-18 or 18-19 BAL
+ - 3!D: 4!H, (16)17-18 or 18-19 BAL
    - 3!H: To play
-   - 3!S: ASK
-    - 3NT/4!C/!D: Bal/L/H
-   - 4!D: re-transfer
- - 3!H: 13-17+ Unbal Inv
+     - 3!S: ASK
+       - 3NT/4!C/!D: Bal/L/H
+     - 4!D: re-transfer
+ - 3!H: 4!H, 13-17+ Unbal Inv
  - 3!S: !S Splinter GF
  - 3NT: GF !C:
  - 4!C: Suit Set !C
@@ -259,7 +260,7 @@ Optionaly break 2!C - 2!D when 15+
 # 1!D Opening
 4+!D always unbalanced (might be 5422). 5+!D unless =4441, for all 11+ hands.
 
-General approach: After 1!D-1M, opener transfer his second suit, with up to 17 HCP. Accepting the transfer shows a weak hand and $\leq 9$ HCP
+General approach: After 1!D-1M, opener transfer his second suit, with up to 17 HCP. Accepting the transfer shows a weak hand and 9- HCP
 
  - 1!H: 4+!H
  - 1!S: 4+!S
@@ -280,7 +281,7 @@ General approach: After 1!D-1M, opener transfer his second suit, with up to 17 H
    - 2!D: To play
    - 2!H: To play
    - 2!S: 4th Suit GF
-     - 2NT: !2254
+     - 2NT: =2254
      - 3!C: 5+!C,
      - 3!D: 6+!D,
      - 3!H: 3!H,
@@ -298,8 +299,10 @@ General approach: After 1!D-1M, opener transfer his second suit, with up to 17 H
  - 3!C: NAT, =xx54+, 18+
  - 3!D: 6+!D, 16-18
  - 3!H: =2452, 15-17
- - 3!S/4!C/4!D: splinter
+ - 3!S: !S splinter
  - 3NT: GF !D, 
+ - 4!C: !C splinter
+ - 4!D: !D suit set
 
 ## 1!D - 1!S
  - 1NT: 4+!C, (5+!D), 17-
@@ -310,7 +313,7 @@ General approach: After 1!D-1M, opener transfer his second suit, with up to 17 H
      - 2NT: !H stopper
      - 3!C: 5+!C,
      - 3!D: 6+!D,
-     - 3!H: 3!H?,
+     - 3!H: 3!H,
      - 3!S: 3!S
    - 2!S: To play
  - 2!C: 6+!D, 15-
@@ -334,12 +337,12 @@ General approach: After 1!D-1M, opener transfer his second suit, with up to 17 H
 
 # 3NT Opening
 3NT: nil: normal 4M preempt; vul: gambling
- - 4C: SI
-    - 4D/4H: H/S no
-    - 4S: Slam in H
-    - 4NT~5H: keycard response in S
- - 4D: Slam force
+ - 4!C: SI
+    - 4!D/4!H: H/S no
+    - 4!S: Slam in H
+    - 4NT~5!H: keycard response in !S
+ - 4!D: Slam force
     - 4H/4S: reverse. Follow by 4S/4NT keycard
- - 4H: P/C
+ - 4!H: P/C
 
 
