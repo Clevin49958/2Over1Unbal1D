@@ -11,16 +11,23 @@ Kevin Hu - Zachary Yan 2/1 with unbal 1D
 - UDCA
 - Smith Echo in NT Contracts
 
+# Table of Content
 - [General Approach](#general-approach)
+- [Table of Content](#table-of-content)
 - [Opening Structure](#opening-structure)
 - [1!C Opening](#1c-opening)
   - [1!C - 1!D:](#1c---1d)
   - [1!C - 1!H:](#1c---1h)
   - [1!C - 1!S:](#1c---1s)
+    - [1!C - 1!S - 1NT:](#1c---1s---1nt)
   - [1!C - 1NT:](#1c---1nt)
   - [1!C - 2!C:](#1c---2c)
+  - [1!C - 2!D:](#1c---2d)
   - [Over interference:](#over-interference)
-    - [1!C - 1!S](#1c---1s)
+    - [1!C - 1!S](#1c---1s-1)
+- [1!D Opening](#1d-opening)
+  - [1!D - 1!H](#1d---1h)
+  - [1!D - 1!S](#1d---1s)
 - [3NT Opening](#3nt-opening)
 
 # Opening Structure
