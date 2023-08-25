@@ -15,19 +15,19 @@ Kevin Hu - Zachary Yan 2/1 with unbal 1D
 - [General Approach](#general-approach)
 - [Table of Content](#table-of-content)
 - [Opening Structure](#opening-structure)
-- [1!C Opening](#1c-opening)
-  - [1!C - 1!D:](#1c---1d)
-  - [1!C - 1!H:](#1c---1h)
-  - [1!C - 1!S:](#1c---1s)
-    - [1!C - 1!S - 1NT:](#1c---1s---1nt)
-  - [1!C - 1NT:](#1c---1nt)
-  - [1!C - 2!C:](#1c---2c)
-  - [1!C - 2!D:](#1c---2d)
+- [1C Opening](#1c-opening)
+  - [1C - 1D:](#1c---1d)
+  - [1C - 1H:](#1c---1h)
+  - [1C - 1S:](#1c---1s)
+    - [1C - 1S - 1NT:](#1c---1s---1nt)
+  - [1C - 1NT:](#1c---1nt)
+  - [1C - 2C:](#1c---2c)
+  - [1C - 2D:](#1c---2d)
   - [Over interference:](#over-interference)
-    - [1!C - 1!S](#1c---1s-1)
-- [1!D Opening](#1d-opening)
-  - [1!D - 1!H](#1d---1h)
-  - [1!D - 1!S](#1d---1s)
+    - [1C - 1S](#1c---1s-1)
+- [1D Opening](#1d-opening)
+  - [1D - 1H](#1d---1h)
+  - [1D - 1S](#1d---1s)
 - [3NT Opening](#3nt-opening)
 
 # Opening Structure
@@ -51,7 +51,7 @@ Kevin Hu - Zachary Yan 2/1 with unbal 1D
    - Vul: Gambling 7 card **any** suit
 
  - 4NT: Specific Ace Ask
-# 1!C Opening
+# 1C Opening
 1!C: 2+!C all balanced 11-14,18-19 (can have 5!D2!C) or NAT !C
  - 1!D: 4!H
  - 1!H: 4!S
@@ -61,7 +61,7 @@ Kevin Hu - Zachary Yan 2/1 with unbal 1D
  - 2!D: 6+!D, no 4M, GF
  - 2M: 6M, 4-7 HCP
  - 2NT: (5)6+!C, 0-6 HCP
- - 3C: (5)6+!C 7-10
+ - 3!C: (5)6+!C 7-10
  - 3NT/4M: to play
 
 General response to XYZ:
@@ -76,7 +76,7 @@ Optionaly break 2!C - 2!D when 15+
 
 Over 1!C or 1!D, if XYZ is available, responder jump rebid major is GF, otherwise INV.
 
-## 1!C - 1!D:
+## 1C - 1D:
 1!D: 4!H
 
  - 1!H: 3!H, ~17 HCP,
@@ -141,16 +141,16 @@ Over 1!C or 1!D, if XYZ is available, responder jump rebid major is GF, otherwis
  - 4!C: Suit Set !C
  - 4!D: !D Splinter GF
  - 4!H: 6+!C 4+!H (any usually shit)
-## 1!C - 1!H:
+## 1C - 1H:
 
  - 1S: 3!S 10-17
 
-## 1!C - 1!S:
+## 1C - 1S:
  - 1NT: 11-14 BAL
  - 2!D~2!S: NAT Reverse
  - 2NT: 18-19 BAL
 
-### 1!C - 1!S - 1NT:
+### 1C - 1S - 1NT:
  - 2!C: forces 2!D
    - 2!D:
      - Pass: weak !D
@@ -161,7 +161,7 @@ Over 1!C or 1!D, if XYZ is available, responder jump rebid major is GF, otherwis
  - 3!D: sharp !D INV
  - 3NT: To play
  
-## 1!C - 1NT:
+## 1C - 1NT:
 1NT: 11-12
  - 2!C: To play
  - 2!D: Nat Reverse GF
@@ -182,7 +182,7 @@ Over 1!C or 1!D, if XYZ is available, responder jump rebid major is GF, otherwis
    - 3NT: To Play
    - Anything else: Cue
  
-## 1!C - 2!C:
+## 1C - 2C:
 2!C: 5+!C 11+HCP
  - 2!D: 3+!C, 11-14 HCP
    - 2!H: ART Relay
@@ -201,7 +201,7 @@ Over 1!C or 1!D, if XYZ is available, responder jump rebid major is GF, otherwis
    - 3!D/!H/!S LMH Shortage 6+!C
  - 2NT: 3+!C, 18-19 HCP
 
-## 1!C - 2!D:
+## 1C - 2D:
 2!D: 6+!D, GF
  - 2!H: ART, Relay Promises 2+!D
    - 2!S: Min
@@ -251,13 +251,13 @@ Over 1!C or 1!D, if XYZ is available, responder jump rebid major is GF, otherwis
  
 
 ## Over interference:
-### 1!C - 1!S 
+### 1C - 1S 
 1!C - 1!S (X):
  - XX: no stopper
  - 1NT: 11-14 spade stopper
  - Pass: 4S
 
-# 1!D Opening
+# 1D Opening
 4+!D always unbalanced (might be 5422). 5+!D unless =4441, for all 11+ hands.
 
 General approach: After 1!D-1M, opener transfer his second suit, with up to 17 HCP. Accepting the transfer shows a weak hand and 9- HCP
@@ -272,7 +272,7 @@ General approach: After 1!D-1M, opener transfer his second suit, with up to 17 H
  - 3!C: 6+!C, weak
  - 3!D: 4+!D, 6-10
 
-## 1!D - 1!H
+## 1D - 1H
 
  - 1!S: 4!S, 17-
    - XYZ
@@ -304,7 +304,7 @@ General approach: After 1!D-1M, opener transfer his second suit, with up to 17 H
  - 4!C: !C splinter
  - 4!D: !D suit set
 
-## 1!D - 1!S
+## 1D - 1S
  - 1NT: 4+!C, (5+!D), 17-
    - 2!C: To play
    - 2!D: To play

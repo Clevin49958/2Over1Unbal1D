@@ -3,7 +3,7 @@ symbols = {"!C": "<font color=green>&clubs;</font>", "!D": "<font color=orange>&
 
 filename = "Kevin-Zach"
 # Open the file in read and write mode
-with open(f"{filename}.md", "r+") as file:
+with open(f"src/{filename}.md", "r+") as file:
   # Read the input string from the file
   input_string = file.read()
 
@@ -15,5 +15,5 @@ with open(f"{filename}.md", "r+") as file:
   # file.seek(0)
 
   # Write the output string to the file
-  with open(f"{filename}-output.md", "w") as output:
+  with open(f"src/System Card {filename}.md", "w") as output:
     output.write(input_string)

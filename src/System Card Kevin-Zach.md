@@ -15,19 +15,19 @@ Kevin Hu - Zachary Yan 2/1 with unbal 1D
 - [General Approach](#general-approach)
 - [Table of Content](#table-of-content)
 - [Opening Structure](#opening-structure)
-- [1<font color=green>&clubs;</font> Opening](#1c-opening)
-  - [1<font color=green>&clubs;</font> - 1<font color=orange>&diams;</font>:](#1c---1d)
-  - [1<font color=green>&clubs;</font> - 1<font color=red>&hearts;</font>:](#1c---1h)
-  - [1<font color=green>&clubs;</font> - 1<font color=blue>&spades;</font>:](#1c---1s)
-    - [1<font color=green>&clubs;</font> - 1<font color=blue>&spades;</font> - 1NT:](#1c---1s---1nt)
-  - [1<font color=green>&clubs;</font> - 1NT:](#1c---1nt)
-  - [1<font color=green>&clubs;</font> - 2<font color=green>&clubs;</font>:](#1c---2c)
-  - [1<font color=green>&clubs;</font> - 2<font color=orange>&diams;</font>:](#1c---2d)
+- [1C Opening](#1c-opening)
+  - [1C - 1D:](#1c---1d)
+  - [1C - 1H:](#1c---1h)
+  - [1C - 1S:](#1c---1s)
+    - [1C - 1S - 1NT:](#1c---1s---1nt)
+  - [1C - 1NT:](#1c---1nt)
+  - [1C - 2C:](#1c---2c)
+  - [1C - 2D:](#1c---2d)
   - [Over interference:](#over-interference)
-    - [1<font color=green>&clubs;</font> - 1<font color=blue>&spades;</font>](#1c---1s-1)
-- [1<font color=orange>&diams;</font> Opening](#1d-opening)
-  - [1<font color=orange>&diams;</font> - 1<font color=red>&hearts;</font>](#1d---1h)
-  - [1<font color=orange>&diams;</font> - 1<font color=blue>&spades;</font>](#1d---1s)
+    - [1C - 1S](#1c---1s-1)
+- [1D Opening](#1d-opening)
+  - [1D - 1H](#1d---1h)
+  - [1D - 1S](#1d---1s)
 - [3NT Opening](#3nt-opening)
 
 # Opening Structure
@@ -51,7 +51,7 @@ Kevin Hu - Zachary Yan 2/1 with unbal 1D
    - Vul: Gambling 7 card **any** suit
 
  - 4NT: Specific Ace Ask
-# 1<font color=green>&clubs;</font> Opening
+# 1C Opening
 1<font color=green>&clubs;</font>: 2+<font color=green>&clubs;</font> all balanced 11-14,18-19 (can have 5<font color=orange>&diams;</font>2<font color=green>&clubs;</font>) or NAT <font color=green>&clubs;</font>
  - 1<font color=orange>&diams;</font>: 4<font color=red>&hearts;</font>
  - 1<font color=red>&hearts;</font>: 4<font color=blue>&spades;</font>
@@ -61,7 +61,7 @@ Kevin Hu - Zachary Yan 2/1 with unbal 1D
  - 2<font color=orange>&diams;</font>: 6+<font color=orange>&diams;</font>, no 4M, GF
  - 2M: 6M, 4-7 HCP
  - 2NT: (5)6+<font color=green>&clubs;</font>, 0-6 HCP
- - 3C: (5)6+<font color=green>&clubs;</font> 7-10
+ - 3<font color=green>&clubs;</font>: (5)6+<font color=green>&clubs;</font> 7-10
  - 3NT/4M: to play
 
 General response to XYZ:
@@ -76,7 +76,7 @@ Optionaly break 2<font color=green>&clubs;</font> - 2<font color=orange>&diams;<
 
 Over 1<font color=green>&clubs;</font> or 1<font color=orange>&diams;</font>, if XYZ is available, responder jump rebid major is GF, otherwise INV.
 
-## 1<font color=green>&clubs;</font> - 1<font color=orange>&diams;</font>:
+## 1C - 1D:
 1<font color=orange>&diams;</font>: 4<font color=red>&hearts;</font>
 
  - 1<font color=red>&hearts;</font>: 3<font color=red>&hearts;</font>, ~17 HCP,
@@ -141,16 +141,16 @@ Over 1<font color=green>&clubs;</font> or 1<font color=orange>&diams;</font>, if
  - 4<font color=green>&clubs;</font>: Suit Set <font color=green>&clubs;</font>
  - 4<font color=orange>&diams;</font>: <font color=orange>&diams;</font> Splinter GF
  - 4<font color=red>&hearts;</font>: 6+<font color=green>&clubs;</font> 4+<font color=red>&hearts;</font> (any usually shit)
-## 1<font color=green>&clubs;</font> - 1<font color=red>&hearts;</font>:
+## 1C - 1H:
 
  - 1S: 3<font color=blue>&spades;</font> 10-17
 
-## 1<font color=green>&clubs;</font> - 1<font color=blue>&spades;</font>:
+## 1C - 1S:
  - 1NT: 11-14 BAL
  - 2<font color=orange>&diams;</font>~2<font color=blue>&spades;</font>: NAT Reverse
  - 2NT: 18-19 BAL
 
-### 1<font color=green>&clubs;</font> - 1<font color=blue>&spades;</font> - 1NT:
+### 1C - 1S - 1NT:
  - 2<font color=green>&clubs;</font>: forces 2<font color=orange>&diams;</font>
    - 2<font color=orange>&diams;</font>:
      - Pass: weak <font color=orange>&diams;</font>
@@ -161,7 +161,7 @@ Over 1<font color=green>&clubs;</font> or 1<font color=orange>&diams;</font>, if
  - 3<font color=orange>&diams;</font>: sharp <font color=orange>&diams;</font> INV
  - 3NT: To play
  
-## 1<font color=green>&clubs;</font> - 1NT:
+## 1C - 1NT:
 1NT: 11-12
  - 2<font color=green>&clubs;</font>: To play
  - 2<font color=orange>&diams;</font>: Nat Reverse GF
@@ -182,7 +182,7 @@ Over 1<font color=green>&clubs;</font> or 1<font color=orange>&diams;</font>, if
    - 3NT: To Play
    - Anything else: Cue
  
-## 1<font color=green>&clubs;</font> - 2<font color=green>&clubs;</font>:
+## 1C - 2C:
 2<font color=green>&clubs;</font>: 5+<font color=green>&clubs;</font> 11+HCP
  - 2<font color=orange>&diams;</font>: 3+<font color=green>&clubs;</font>, 11-14 HCP
    - 2<font color=red>&hearts;</font>: ART Relay
@@ -201,7 +201,7 @@ Over 1<font color=green>&clubs;</font> or 1<font color=orange>&diams;</font>, if
    - 3<font color=orange>&diams;</font>/<font color=red>&hearts;</font>/<font color=blue>&spades;</font> LMH Shortage 6+<font color=green>&clubs;</font>
  - 2NT: 3+<font color=green>&clubs;</font>, 18-19 HCP
 
-## 1<font color=green>&clubs;</font> - 2<font color=orange>&diams;</font>:
+## 1C - 2D:
 2<font color=orange>&diams;</font>: 6+<font color=orange>&diams;</font>, GF
  - 2<font color=red>&hearts;</font>: ART, Relay Promises 2+<font color=orange>&diams;</font>
    - 2<font color=blue>&spades;</font>: Min
@@ -251,13 +251,13 @@ Over 1<font color=green>&clubs;</font> or 1<font color=orange>&diams;</font>, if
  
 
 ## Over interference:
-### 1<font color=green>&clubs;</font> - 1<font color=blue>&spades;</font> 
+### 1C - 1S 
 1<font color=green>&clubs;</font> - 1<font color=blue>&spades;</font> (X):
  - XX: no stopper
  - 1NT: 11-14 spade stopper
  - Pass: 4S
 
-# 1<font color=orange>&diams;</font> Opening
+# 1D Opening
 4+<font color=orange>&diams;</font> always unbalanced (might be 5422). 5+<font color=orange>&diams;</font> unless =4441, for all 11+ hands.
 
 General approach: After 1<font color=orange>&diams;</font>-1M, opener transfer his second suit, with up to 17 HCP. Accepting the transfer shows a weak hand and 9- HCP
@@ -272,7 +272,7 @@ General approach: After 1<font color=orange>&diams;</font>-1M, opener transfer h
  - 3<font color=green>&clubs;</font>: 6+<font color=green>&clubs;</font>, weak
  - 3<font color=orange>&diams;</font>: 4+<font color=orange>&diams;</font>, 6-10
 
-## 1<font color=orange>&diams;</font> - 1<font color=red>&hearts;</font>
+## 1D - 1H
 
  - 1<font color=blue>&spades;</font>: 4<font color=blue>&spades;</font>, 17-
    - XYZ
@@ -304,7 +304,7 @@ General approach: After 1<font color=orange>&diams;</font>-1M, opener transfer h
  - 4<font color=green>&clubs;</font>: <font color=green>&clubs;</font> splinter
  - 4<font color=orange>&diams;</font>: <font color=orange>&diams;</font> suit set
 
-## 1<font color=orange>&diams;</font> - 1<font color=blue>&spades;</font>
+## 1D - 1S
  - 1NT: 4+<font color=green>&clubs;</font>, (5+<font color=orange>&diams;</font>), 17-
    - 2<font color=green>&clubs;</font>: To play
    - 2<font color=orange>&diams;</font>: To play
