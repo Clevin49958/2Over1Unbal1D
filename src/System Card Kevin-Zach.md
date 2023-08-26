@@ -28,6 +28,7 @@ Kevin Hu - Zachary Yan 2/1 with unbal 1D
 - [1D Opening](#1d-opening)
   - [1D - 1H](#1d---1h)
   - [1D - 1S](#1d---1s)
+- [1H Opening](#1h-opening)
 - [3NT Opening](#3nt-opening)
 - [General Conventions](#general-conventions)
   - [Lebensohl](#lebensohl)
@@ -336,6 +337,68 @@ General approach: After 1<font color=orange>&diams;</font>-1M, opener transfer h
  - 3NT: GF <font color=orange>&diams;</font>
  - 4<font color=green>&clubs;</font>/4<font color=red>&hearts;</font>: splinter
  - 4<font color=orange>&diams;</font>: <font color=orange>&diams;</font> Suit set
+
+# 1H Opening
+5+<font color=red>&hearts;</font> (10)11 + HCP
+ - 1<font color=blue>&spades;</font>: 4+<font color=blue>&spades;</font>
+   - 2<font color=green>&clubs;</font>: 6+<font color=red>&hearts;</font> or 16+HCP
+   - 2<font color=red>&hearts;</font>: 5+<font color=red>&hearts;</font>, 4+<font color=green>&clubs;</font> 11-15HCP
+ - 1NT: (0)3-11 HCP Any shape can have 3<font color=blue>&spades;</font>
+   - 2<font color=green>&clubs;</font>: 6+<font color=red>&hearts;</font> or 16+HCP
+     - 2<font color=orange>&diams;</font>: 8+HCP, Any
+     - 2<font color=red>&hearts;</font>: 1-3<font color=red>&hearts;</font>, <8HCP
+     - 2<font color=blue>&spades;</font>: ???
+     - 2NT: Both Minors, <8HCP
+     - 3<font color=green>&clubs;</font>: 6+<font color=green>&clubs;</font>, <8HCP
+   - 2<font color=orange>&diams;</font>: 5+<font color=red>&hearts;</font>, 4+<font color=orange>&diams;</font> 11-15HCP
+   - 2<font color=red>&hearts;</font>: 5+<font color=red>&hearts;</font>, 4+<font color=green>&clubs;</font> 11-15HCP
+   - 2<font color=blue>&spades;</font>: 5+<font color=red>&hearts;</font>, 4+<font color=blue>&spades;</font> 16+HCP
+   - 2NT: 18-19 Bal
+   - 3<font color=green>&clubs;</font>: 5+<font color=red>&hearts;</font>, 5+<font color=green>&clubs;</font> 16+HCP
+   - 3<font color=orange>&diams;</font>: 5+<font color=red>&hearts;</font>, 5+<font color=orange>&diams;</font> 16+HCP
+   - 3<font color=red>&hearts;</font>: 6+<font color=red>&hearts;</font>, 16-18HCP
+ - 2<font color=green>&clubs;</font>: (0)2+<font color=green>&clubs;</font> 12+ HCP, GF
+   - 2<font color=orange>&diams;</font>: 5<font color=red>&hearts;</font>4m or Bal
+     - 2<font color=red>&hearts;</font>: Relay
+       - 2<font color=blue>&spades;</font>: Min
+         - 2NT: Relay
+           - 3<font color=green>&clubs;</font>: 5<font color=red>&hearts;</font>4<font color=green>&clubs;</font>
+             - 3<font color=orange>&diams;</font>: Relay
+               - 3<font color=red>&hearts;</font>: 2524
+                 - 3<font color=blue>&spades;</font>: Wiggle
+                 - 4<font color=green>&clubs;</font>: Agrees <font color=red>&hearts;</font>
+                 - 4<font color=orange>&diams;</font>: Agrees <font color=green>&clubs;</font>
+               - 3<font color=blue>&spades;</font>: 3514
+                 - 4<font color=green>&clubs;</font>: Agrees <font color=red>&hearts;</font>
+                 - 4<font color=orange>&diams;</font>: Agrees <font color=green>&clubs;</font>
+               - 3NT: 1534
+                 - 4<font color=green>&clubs;</font>: Agrees <font color=red>&hearts;</font>
+                 - 4<font color=orange>&diams;</font>: Agrees <font color=green>&clubs;</font>
+           - 3<font color=orange>&diams;</font>: 2542
+           - 3<font color=red>&hearts;</font>: 3541
+           - 3<font color=blue>&spades;</font>: 1543
+       - 2NT: 11-14 Positional Bal or 18-19 Bal
+       - 3<font color=green>&clubs;</font>: 5<font color=red>&hearts;</font>4<font color=green>&clubs;</font> 16+
+         - 3<font color=orange>&diams;</font>: Relay
+           - 3<font color=red>&hearts;</font>: 2524
+           - 3<font color=blue>&spades;</font>: 3514
+           - 3NT: 1534
+       - 3<font color=orange>&diams;</font>: 2542
+       - 3<font color=red>&hearts;</font>: 3541
+       - 3<font color=blue>&spades;</font>: 1543
+ - 2<font color=orange>&diams;</font>: 5+<font color=orange>&diams;</font> 12+ HCP, GF
+ - 2<font color=red>&hearts;</font>: 7-10HCP 3+<font color=red>&hearts;</font>
+ - 2<font color=blue>&spades;</font>: 10-12 HCP 6+<font color=blue>&spades;</font>
+ - 2NT: 10+HCP, 4+<font color=red>&hearts;</font>
+ - 3<font color=green>&clubs;</font>: (5)6-9HCP, 4+<font color=red>&hearts;</font>
+ - 3<font color=orange>&diams;</font>: 10-12HCP, 3<font color=red>&hearts;</font>
+ - 3<font color=red>&hearts;</font>: 0-5HCP, 4+<font color=red>&hearts;</font>
+ - 3<font color=blue>&spades;</font>: Splinter ???
+ - 3NT: ??
+ - 4<font color=green>&clubs;</font>: Splinter
+ - 4<font color=orange>&diams;</font>: Splinter
+ - 4<font color=red>&hearts;</font>: Preemptive, To Play
+ - 4<font color=blue>&spades;</font>: Keycard
 
 # 3NT Opening
 3NT: nil: normal 4M preempt; vul: gambling
