@@ -337,6 +337,68 @@ General approach: After 1!D-1M, opener transfer his second suit, with up to 17 H
  - 4!C/4!H: splinter
  - 4!D: !D Suit set
 
+# 1H Opening
+5+!H (10)11 + HCP
+ - 1!S: 4+!S
+   - 2!C: 6+!H or 16+HCP
+   - 2!H: 5+!H, 4+!C 11-15HCP
+ - 1NT: (0)3-11 HCP Any shape can have 3!S
+   - 2!C: 6+!H or 16+HCP
+     - 2!D: 8+HCP, Any
+     - 2!H: 1-3!H, <8HCP
+     - 2!S: ???
+     - 2NT: Both Minors, <8HCP
+     - 3!C: 6+!C, <8HCP
+   - 2!D: 5+!H, 4+!D 11-15HCP
+   - 2!H: 5+!H, 4+!C 11-15HCP
+   - 2!S: 5+!H, 4+!S 16+HCP
+   - 2NT: 18-19 Bal
+   - 3!C: 5+!H, 5+!C 16+HCP
+   - 3!D: 5+!H, 5+!D 16+HCP
+   - 3!H: 6+!H, 16-18HCP
+ - 2!C: (0)2+!C 12+ HCP, GF
+   - 2!D: 5!H4m or Bal
+     - 2!H: Relay
+       - 2!S: Min
+         - 2NT: Relay
+           - 3!C: 5!H4!C
+             - 3!D: Relay
+               - 3!H: 2524
+                 - 3!S: Wiggle
+                 - 4!C: Agrees !H
+                 - 4!D: Agrees !C
+               - 3!S: 3514
+                 - 4!C: Agrees !H
+                 - 4!D: Agrees !C
+               - 3NT: 1534
+                 - 4!C: Agrees !H
+                 - 4!D: Agrees !C
+           - 3!D: 2542
+           - 3!H: 3541
+           - 3!S: 1543
+       - 2NT: 11-14 Positional Bal or 18-19 Bal
+       - 3!C: 5!H4!C 16+
+         - 3!D: Relay
+           - 3!H: 2524
+           - 3!S: 3514
+           - 3NT: 1534
+       - 3!D: 2542
+       - 3!H: 3541
+       - 3!S: 1543
+ - 2!D: 5+!D 12+ HCP, GF
+ - 2!H: 7-10HCP 3+!H
+ - 2!S: 10-12 HCP 6+!S
+ - 2NT: 10+HCP, 4+!H
+ - 3!C: (5)6-9HCP, 4+!H
+ - 3!D: 10-12HCP, 3!H
+ - 3!H: 0-5HCP, 4+!H
+ - 3!S: Splinter ???
+ - 3NT: ??
+ - 4!C: Splinter
+ - 4!D: Splinter
+ - 4!H: Preemptive, To Play
+ - 4!S: Keycard
+
 # 3NT Opening
 3NT: nil: normal 4M preempt; vul: gambling
  - 4!C: SI
