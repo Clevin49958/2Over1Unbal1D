@@ -29,6 +29,8 @@ Kevin Hu - Zachary Yan 2/1 with unbal 1D
   - [1D - 1H](#1d---1h)
   - [1D - 1S](#1d---1s)
 - [3NT Opening](#3nt-opening)
+- [General Conventions](#general-conventions)
+  - [Lebensohl](#lebensohl)
 
 # Opening Structure
  - 1!C: 2+!C all balanced 11-14,18-19 (can have 5!D2!C) or NAT !C
@@ -345,4 +347,14 @@ General approach: After 1!D-1M, opener transfer his second suit, with up to 17 H
     - 4!H/4!S: reverse. Follow by 4!S/4NT keycard
  - 4!H: P/C
 
+# General Conventions
 
+## Lebensohl
+
+After `(2X) X (P)`,
+ - 2NT
+   - 3!C
+     - 3X (cue): stopper in X and 4M
+     - 3NT: Stopper in X
+ - 3X: 4M and no stopper
+ - 3NT: no stopper, no 4M, generally no 5 card suit.
