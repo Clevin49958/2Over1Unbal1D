@@ -17,20 +17,25 @@
 - [Table of Content](#table-of-content)
 - [Opening Structure](#opening-structure)
 - [1!C Opening](#1c-opening)
-  - [1!C - 1!D:](#1c---1d)
-  - [1!C - 1!H:](#1c---1h)
-  - [1!C - 1!S:](#1c---1s)
-  - [1!C - 1!S - 1NT:](#1c---1s---1nt)
-  - [1!C - 1NT:](#1c---1nt)
-  - [1!C - 2!C:](#1c---2c)
-  - [1!C - 2!D:](#1c---2d)
-  - [Over interference:](#over-interference)
-  - [1!C - 1!S](#1c---1s-1)
+  - [1!C - 1!D](#1c---1d)
+  - [1!C - 1!H](#1c---1h)
+  - [1!C - 1!S](#1c---1s)
+  - [1!C - 1!S - 1NT](#1c---1s---1nt)
+  - [1!C - 1NT](#1c---1nt)
+  - [1!C - 2!C](#1c---2c)
+  - [1!C - 2!D](#1c---2d)
+  - [Over interference](#over-interference)
+    - [1!C - 1!S](#1c---1s-1)
 - [1!D Opening](#1d-opening)
   - [1!D - 1!H](#1d---1h)
   - [1!D - 1!S](#1d---1s)
 - [1!H Opening](#1h-opening)
+  - [1!H - 1!S](#1h---1s)
+  - [1!H - 1NT](#1h---1nt)
+  - [1!H - 2!C](#1h---2c)
 - [3NT Opening](#3nt-opening)
+- [In competition](#in-competition)
+  - [Good/bad 2NT](#goodbad-2nt)
 - [General Conventions](#general-conventions)
   - [Lebensohl](#lebensohl)
 
@@ -55,6 +60,7 @@
    - Vul: Gambling 7 card **any** suit
 
  - 4NT: Specific Ace Ask
+
 # 1!C Opening
 1!C: 2+!C all balanced 11-14,18-19 (can have 5!D2!C) or NAT !C
  - 1!D: 4!H
@@ -80,7 +86,7 @@ Optionaly break 2!C - 2!D when 15+
 
 Over 1!C or 1!D, if XYZ is available, responder jump rebid major is GF, otherwise INV.
 
-## 1!C - 1!D:
+## 1!C - 1!D
 1!D: 4!H
 
  - 1!H: 3!H, ~17 HCP,
@@ -130,7 +136,7 @@ Over 1!C or 1!D, if XYZ is available, responder jump rebid major is GF, otherwis
    - 3!S: 6+!H5+!S GF
    - 3NT: 5+!D Mild SI
    - 4!C: 6+!C Slam Try
-   - 4!D: 6+!C Slam Try
+   - 4!D: 6+!D Slam Try
  - 3!C: 6+!C, 16-18
    - 3!D wiggle?
    - 3!H/!S: 6+!H/!S GF
@@ -141,20 +147,54 @@ Over 1!C or 1!D, if XYZ is available, responder jump rebid major is GF, otherwis
    - 4!D: re-transfer
  - 3!H: 4!H, 13-17+ Unbal Inv
  - 3!S: !S Splinter GF
- - 3NT: GF !C:
+ - 3NT: GF !C
  - 4!C: Suit Set !C
  - 4!D: !D Splinter GF
  - 4!H: 6+!C 4+!H (any usually shit)
-## 1!C - 1!H:
+
+## 1!C - 1!H
+Similar to [1!D](#1c---1d) response.
 
  - 1!S: 3!S 10-17
+ - 2!C: 5+!C
+   - 2!D: ART, GF
+ - 2NT: 18-19, BAL
+   - 3!C: force 3!D
+     - 3!D
+       - 3!H: 4!H6!S, GF
+       - 3!S: drop
+       - 3NT: 5+!C Mild SI
+   - 3!D: ART GF
+   - 3!H: 5+!H5+!S GF
+   - 3!S: 6+!S GF
+   - 3NT: 5+!D Mild SI
+ - 3!C: 6+!C, 16-18
+   - 3!D wiggle?
+   - 3!H/!S: 6+!H/!S GF
+ - 3!D: 4!S, (16)17-18 or 18-19 BAL
+   - 3!H: re-transfer?
+   - 3!S: ASK?
+     - 3NT/4!C/!D: Bal/L/H
+   - 4!D: re-transfer
+ - 3!H: 6+!C, 3!S, (14)15+
+   - 3!S: To Play
+   - 3NT: To Play
+   - 4!C: To Play
+   - 4!D: Agree !S
+   - 4!H: Agree !C?
+ - 3!S: 4!S, 13-17+ Unbal Inv
+ - 3NT: GF !C
+ - 4!C: Suit Set !C
+ - 4!D: !D Splinter GF
+ - 4!H: !H Splinter GF
+ - 4!S: 6+!C 4+!S (any usually shit)
 
-## 1!C - 1!S:
+## 1!C - 1!S
  - 1NT: 11-14 BAL
  - 2!D~2!S: NAT Reverse
  - 2NT: 18-19 BAL
 
-## 1!C - 1!S - 1NT:
+## 1!C - 1!S - 1NT
  - 2!C: forces 2!D
    - 2!D:
      - Pass: weak !D
@@ -165,7 +205,7 @@ Over 1!C or 1!D, if XYZ is available, responder jump rebid major is GF, otherwis
  - 3!D: sharp !D INV
  - 3NT: To play
  
-## 1!C - 1NT:
+## 1!C - 1NT
 1NT: 11-12
  - 2!C: To play
  - 2!D: Nat Reverse GF
@@ -182,11 +222,11 @@ Over 1!C or 1!D, if XYZ is available, responder jump rebid major is GF, otherwis
    - 3!H: 4!C
    - 3!S: 5!C
  - 3!C: GF 6+!C
- - 3!D: 5!D(332) 18-19:
+ - 3!D: 5!D(332) 18-19
    - 3NT: To Play
    - Anything else: Cue
  
-## 1!C - 2!C:
+## 1!C - 2!C
 2!C: 5+!C 11+HCP
  - 2!D: 3+!C, 11-14 HCP
    - 2!H: ART Relay
@@ -205,7 +245,7 @@ Over 1!C or 1!D, if XYZ is available, responder jump rebid major is GF, otherwis
    - 3!D/!H/!S LMH Shortage 6+!C
  - 2NT: 3+!C, 18-19 HCP
 
-## 1!C - 2!D:
+## 1!C - 2!D
 2!D: 6+!D, GF
  - 2!H: ART, Relay Promises 2+!D
    - 2!S: Min
@@ -254,8 +294,8 @@ Over 1!C or 1!D, if XYZ is available, responder jump rebid major is GF, otherwis
  - 3!D: SHIT 3!D
  
 
-## Over interference:
-## 1!C - 1!S 
+## Over interference
+### 1!C - 1!S 
 1!C - 1!S (X):
  - XX: no stopper
  - 1NT: 11-14 spade stopper
@@ -342,51 +382,8 @@ General approach: After 1!D-1!M, opener transfer his second suit, with up to 17 
 # 1!H Opening
 5+!H (10)11 + HCP
  - 1!S: 4+!S
-   - 2!C: 6+!H or 16+HCP
-   - 2!H: 5+!H, 4+!C 11-15HCP
- - 1NT: (0)3-11 HCP Any shape can have 3!S
-   - 2!C: 6+!H or 16+HCP
-     - 2!D: 8+HCP, Any
-     - 2!H: 1-3!H, <8HCP
-     - 2!S: ???
-     - 2NT: both !ms, <8HCP
-     - 3!C: 6+!C, <8HCP
-   - 2!D: 5+!H, 4+!D 11-15HCP
-   - 2!H: 5+!H, 4+!C 11-15HCP
-   - 2!S: 5+!H, 4+!S 16+HCP
-   - 2NT: 18-19 Bal
-   - 3!C: 5+!H, 5+!C 16+HCP
-   - 3!D: 5+!H, 5+!D 16+HCP
-   - 3!H: 6+!H, 16-18HCP
- - 2!C: (0)2+!C 12+ HCP, GF
-   - 2!D: 5!H4!m or Bal
-     - 2!H: Relay
-       - 2!S: Min
-         - 2NT: Relay
-           - 3!C: 5!H4!C
-             - 3!D: Relay
-               - 3!H: 2524
-                 - 3!S: Wiggle
-                 - 4!C: Agrees !H
-                 - 4!D: Agrees !C
-               - 3!S: 3514
-                 - 4!C: Agrees !H
-                 - 4!D: Agrees !C
-               - 3NT: 1534
-                 - 4!C: Agrees !H
-                 - 4!D: Agrees !C
-           - 3!D: 2542
-           - 3!H: 3541
-           - 3!S: 1543
-       - 2NT: 11-14 Positional Bal or 18-19 Bal
-       - 3!C: 5!H4!C 16+
-         - 3!D: Relay
-           - 3!H: 2524
-           - 3!S: 3514
-           - 3NT: 1534
-       - 3!D: 2542
-       - 3!H: 3541
-       - 3!S: 1543
+ - 1NT: (0)3-11 HCP Any shape can have 3!H
+ - 2!C: (0)2+!C 12+ HCP, GF, Relay
  - 2!D: 5+!D 12+ HCP, GF
  - 2!H: 7-10HCP 3+!H
  - 2!S: 10-12 HCP 6+!S
@@ -401,6 +398,60 @@ General approach: After 1!D-1!M, opener transfer his second suit, with up to 17 
  - 4!H: Preemptive, To Play
  - 4!S: Keycard
 
+## 1!H - 1!S
+Gazilli is on. 
+1!S: 4+!S
+ - 2!C: 6+!H or 16+HCP
+ - 2!H: 5+!H, 4+!C 11-15HCP
+
+## 1!H - 1NT
+1NT: (0)3-11 HCP Any shape can have 3!H
+
+ - 2!C: 6+!H or 16+HCP
+   - 2!D: 8+HCP, Any
+   - 2!H: 1-3!H, <8HCP
+   - 2!S: 4!S, 18+
+   - 2NT: both !ms, <8HCP
+   - 3!C: 6+!C, <8HCP
+ - 2!D: 5+!H, 4+!D 11-15HCP
+ - 2!H: 5+!H, 4+!C 11-15HCP
+ - 2!S: 5+!H, 4+!S 16+HCP
+ - 2NT: 18-19 Bal
+ - 3!C: 5+!H, 5+!C 16+HCP
+ - 3!D: 5+!H, 5+!D 16+HCP
+ - 3!H: 6+!H, 16-18HCP
+
+## 1!H - 2!C
+2!C: (0)2+!C 12+ HCP, GF, Relay
+ - 2!D: 5!H4!m or Bal
+   - 2!H: Relay
+     - 2!S: Min
+       - 2NT: Relay
+         - 3!C: 5!H4!C
+           - 3!D: Relay
+             - 3!H: 2524 (!C, N)
+               - 3!S: Wiggle
+               - 4!C: Agrees !H
+               - 4!D: Agrees !C
+             - 3!S: 3514 (!C, L)
+               - 4!C: Agrees !H
+               - 4!D: Agrees !C
+             - 3NT: 1534 (!C, H)
+               - 4!C: Agrees !H
+               - 4!D: Agrees !C
+         - 3!D: 2542 (!D, N)
+         - 3!H: 3541 (!D, L)
+         - 3!S: 1543 (!D, H)
+     - 2NT: 11-14 Positional Bal or 18-19 Bal
+     - 3!C: 5!H4!C 16+
+       - 3!D: Relay
+         - 3!H: 2524 (!C, N)
+         - 3!S: 3514 (!C, L)
+         - 3NT: 1534 (!C, H)
+     - 3!D: 2542 (!D, N)
+     - 3!H: 3541 (!D, L)
+     - 3!S: 1543 (!D, H)
+
 # 3NT Opening
 3NT: nil: normal 4!M preempt; vul: gambling
  - 4!C: SI
@@ -410,6 +461,18 @@ General approach: After 1!D-1!M, opener transfer his second suit, with up to 17 
  - 4!D: Slam force
     - 4!H/4!S: reverse. Follow by 4!S/4NT keycard
  - 4!H: P/C
+
+# In competition
+
+## Good/bad 2NT
+After 
+
+1!m - 1X (2Y);
+
+The opener may wish to compete in a !minor at 3 level.
+
+ - 2NT: Competing. 11~14
+ - 3!m: INV, 15~17
 
 # General Conventions
 
