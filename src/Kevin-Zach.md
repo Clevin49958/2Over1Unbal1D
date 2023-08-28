@@ -413,8 +413,8 @@ General approach: After 1!D-1!M, opener transfer his second suit, with up to 17 
  - (!H) 2!S: [ART, GF 6(331) or 5!S6!H](#1h---1nt---2s)
  - (!S) 2!H: 4+!H, 11-**14**
  - 2NT: [19+, 4+!C](#1m---1nt---2c---2d-2nt)
- - 3!C: [19+, !M!D, 5/7+4,](#1m---1nt---2c---2d-3c)
- - 3!D: [19+, !M!D, 55/64/6+5+](#1m---1nt---2c---2d-3d)
+ - 3!C: [19+, !M!D, 54/74,](#1m---1nt---2c---2d-3c)
+ - 3!D: [19+, !M!D, 55/64/65](#1m---1nt---2c---2d-3d)
  - 3!M: 6+!M, 16-**17**, good suit
  - (!H) [3!S: =1!S, normal splinter](#1h---1nt),
  - (!S) [3!H: 5!S5+!H, <16, INV (4!C=!H, 4!D=NAT)](#1s---1nt)
@@ -434,8 +434,8 @@ General approach: After 1!D-1!M, opener transfer his second suit, with up to 17 
  - 2!M: 6+M, 11-15
  - 2!oM: various, !oM/NT, [!H](#1h---1nt---2c---2d---2s)[!S](#1s---1nt---2c---2d---2h)
  - 2NT: [16-18, 4+!C](#1m---1nt---2c---2d-2nt)
- - 3!C: [16-18, !M!D, 5/7&4](#1m---1nt---2c---2d-3c)
- - 3!D: [16-18, !M!D, 55/64/6+5+](#1m---1nt---2c---2d-3d)
+ - 3!C: [16-18, !M!D, 54/74](#1m---1nt---2c---2d-3c)
+ - 3!D: [16-18, !M!D, 55/64/65](#1m---1nt---2c---2d-3d)
  - 3!M: 6+!M, 14-15
  - 3!oM: 16+, 6+!M (GF), bad suit
  - 3NT: To play
@@ -455,7 +455,7 @@ Followed by 3!C relay
  - 4!m: 7!M4!C
 
 #### 1!M - 1NT (- 2!C - 2!D) 3!C
-3!C: !M!D, =54/74, 19+/16-18 via Gazilla. 
+3!C: !M!D, =54/74, 19+/16-18 via Gazilli. 
 Followed by 3!D relay
  - 3!H: 5!M4!D, (N)
  - 3!S: 5!M4!D, (L)
@@ -463,7 +463,7 @@ Followed by 3!D relay
  - 4!m: 7!M4!D
 
 #### 1!M - 1NT (- 2!C - 2!D) 3!D
-3!D: !M!D, 64/55/65, 19+/16-18 via Gazilla. 
+3!D: !M!D, 64/55/65, 19+/16-18 via Gazilli. 
 Followed by 3!H relay
  - 3!S: 64
  - 3NT: 55
@@ -504,8 +504,8 @@ Gazilli is on.
  - 2!H: 5+!H, 4+!C 11-15HCP
  - 2!S: [ART, GF 6(331) or 5!S6!H](#1h---1nt---2s)
  - 2NT: [19+, 4+!C,](#1m---1nt---2c---2d-2nt)
- - 3!C: [19+, !H!D, 5/7+4,](#1m---1nt---2c---2d-3c)
- - 3!D: [19+, !H!D, 55/64/6+5+](#1m---1nt---2c---2d-3d)
+ - 3!C: [19+, !H!D, 54/74](#1m---1nt---2c---2d-3c)
+ - 3!D: [19+, !H!D, 55/64/65](#1m---1nt---2c---2d-3d)
  - 3!H: 6+!H, 16-17HCP, good suit
  - 3!S: 1!S
 
@@ -621,8 +621,8 @@ Requires 6+!H
  - 2!H: 5+!S, 4+!H 11-15HCP
  - 2!S: 5+!S, 4+!C 11-15HCP
  - 2NT: [19+, 4+!C,](#1m---1nt---2c---2d-2nt)
- - 3!C: [19+, !H!D, 5/7+4,](#1m---1nt---2c---2d-3c)
- - 3!D: [19+, !H!D, 55/64/6+5+](#1m---1nt---2c---2d-3d)
+ - 3!C: [19+, !H!D, 54/74](#1m---1nt---2c---2d-3c)
+ - 3!D: [19+, !H!D, 55/64/65](#1m---1nt---2c---2d-3d)
  - 3!H: 5!S5+!H, <16, INV (4!C=!H, 4!D=NAT)
  - 3!S: 6+!S, 16-**17**, good suit
 
@@ -647,7 +647,7 @@ Requires 6+!H
      - 3!H:
        - 3!S: 64
        - 3NT: 55
-       - 4!m: 65
+       - 4!C: 65
    - 3!H: 16+, 6+!S, 3!H
    - 3!S: 18-19, 6+!S, good suit, no 3!H
  - 2NT: 55 !minors
@@ -666,7 +666,7 @@ Requires 6+!S
    - 3!H: 2!C-2!D-2!H-2!S-3!H
    - 4+!C: 2NT
    - 4+!D: 3!C (54/74)/3!D (64/55/65)
-   - 7+ (good), Singleton: 2!C-2!D-2!H-2!S-4X
+   - 7+ (good), Singleton: 2!C-2!D-4X
    - 7+ (good), VOID: 3NT/4!C/4!D (!S/!C/!D)
  - 4!H, 16+: 2!C-2!D-2!H-2!S-3!C (54/74)/3!D (64/55/65)
  - 5+!H, <16: 3!H/4!H
