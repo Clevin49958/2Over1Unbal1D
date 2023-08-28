@@ -1,4 +1,7 @@
 # Kevin Hu - Zachary Yan 2/1 with unbal 1!D
+
+Ver 1.0.0
+
 # General Approach
 - 2/1
 - Balanced 1!C (can have 5!D2!C)
@@ -53,9 +56,11 @@
     - [1!S - 1NT - 6+!S summary](#1s---1nt---6s-summary)
 - [3NT Opening](#3nt-opening)
 - [In competition](#in-competition)
+  - [1!M (X) 2!D](#1m-x-2d)
   - [Good/bad 2NT](#goodbad-2nt)
 - [General Conventions](#general-conventions)
   - [Lebensohl](#lebensohl)
+- [TODO](#todo)
 
 # Opening Structure
  - 1!C: 2+!C all balanced 11-14,18-19 (can have 5!D2!C) or NAT !C
@@ -680,6 +685,10 @@ Requires 6+!S
 
 # In competition
 
+## 1!M (X) 2!D
+ - 2!D: Good raise in !M (8-10)
+ - 2!M: Bad raise in !M (3-7)
+
 ## Good/bad 2NT
 After 
 
@@ -701,3 +710,9 @@ After `(2X) X (P)`,
      - 3NT: Stopper in X
  - 3X: 4!M and no stopper
  - 3NT: no stopper, no 4!M, generally no 5 card suit.
+
+# TODO
+ - 1M-2D
+ - Transfer in competition
+ - To document: 
+   - 1!S - 2!C
