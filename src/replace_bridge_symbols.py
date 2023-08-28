@@ -9,6 +9,7 @@ symbols = {
   "!H": "<font color=red class=heart>&hearts;</font>", 
   "!S": "<font color=blue class=spade>&spades;</font>",
   "!M": "<font color=magenta class=major>M</font>",
+  "!oM": "<font color=magenta class=major>oM</font>",
   "!m": "<font color=grassgreen class=minor>m</font>"
 }
 

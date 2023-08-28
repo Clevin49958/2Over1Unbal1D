@@ -16,6 +16,8 @@
 - [General Approach](#general-approach)
 - [Table of Content](#table-of-content)
 - [Opening Structure](#opening-structure)
+- [1!m General conventions](#1m-general-conventions)
+  - [XYZ](#xyz)
 - [1!C Opening](#1c-opening)
   - [1!C - 1!D](#1c---1d)
   - [1!C - 1!H](#1c---1h)
@@ -29,10 +31,26 @@
 - [1!D Opening](#1d-opening)
   - [1!D - 1!H](#1d---1h)
   - [1!D - 1!S](#1d---1s)
+- [1!M General Conventions](#1m-general-conventions-1)
+  - [Gazilli](#gazilli)
+    - [1!M - 1NT](#1m---1nt)
+      - [1!M - 1NT - 2!C](#1m---1nt---2c)
+        - [1!M - 1NT - 2!C - 2!D](#1m---1nt---2c---2d)
+      - [1!M - 1NT (- 2!C - 2!D) 2NT](#1m---1nt---2c---2d-2nt)
+      - [1!M - 1NT (- 2!C - 2!D) 3!C](#1m---1nt---2c---2d-3c)
+      - [1!M - 1NT (- 2!C - 2!D) 3!D](#1m---1nt---2c---2d-3d)
 - [1!H Opening](#1h-opening)
   - [1!H - 1!S](#1h---1s)
   - [1!H - 1NT](#1h---1nt)
+    - [1!H - 1NT - 2!S](#1h---1nt---2s)
+    - [1!H - 1NT - 2!C - 2!D - 2!S](#1h---1nt---2c---2d---2s)
+    - [1!H - 1NT - 6+!H summary](#1h---1nt---6h-summary)
   - [1!H - 2!C](#1h---2c)
+- [1!S Opening](#1s-opening)
+  - [1!S - 1NT](#1s---1nt)
+    - [1!S - 1NT - 2!C - 2!D](#1s---1nt---2c---2d)
+      - [1!S - 1NT - 2!C - 2!D - 2!H](#1s---1nt---2c---2d---2h)
+    - [1!S - 1NT - 6+!S summary](#1s---1nt---6s-summary)
 - [3NT Opening](#3nt-opening)
 - [In competition](#in-competition)
   - [Good/bad 2NT](#goodbad-2nt)
@@ -58,8 +76,21 @@
  - 3NT:
    - Nonvul: normal 4!M preempt
    - Vul: Gambling 7 card **any** suit
-
  - 4NT: Specific Ace Ask
+
+# 1!m General conventions
+## XYZ
+General response to XYZ:
+Optionaly break 2!C - 2!D when 15+
+ - 2!M: 
+   - after confirming 3 card: anti-positional
+   - after denying 3 card: Hx
+ - 2oM: 4oM
+ - 2NT: waiting
+ - 3!C: 5!C after 1!C
+ - 3!D: 5!D after 1!C
+
+Over 1!C or 1!D, if XYZ is available, responder jump rebid major is GF, otherwise INV.
 
 # 1!C Opening
 1!C: 2+!C all balanced 11-14,18-19 (can have 5!D2!C) or NAT !C
@@ -73,18 +104,6 @@
  - 2NT: (5)6+!C, 0-6 HCP
  - 3!C: (5)6+!C 7-10
  - 3NT/4!M: to play
-
-General response to XYZ:
-Optionaly break 2!C - 2!D when 15+
- - 2!M: 
-   - after confirming 3 card: anti-positional
-   - after denying 3 card: Hx
- - 2oM: 4oM
- - 2NT: waiting
- - 3!C: 5!C
- - 3!D: 5!D
-
-Over 1!C or 1!D, if XYZ is available, responder jump rebid major is GF, otherwise INV.
 
 ## 1!C - 1!D
 1!D: 4!H
@@ -295,7 +314,7 @@ Similar to [1!D](#1c---1d) response.
  
 
 ## Over interference
-### 1!C - 1!S 
+### 1!C - 1!S
 1!C - 1!S (X):
  - XX: no stopper
  - 1NT: 11-14 spade stopper
@@ -379,6 +398,72 @@ General approach: After 1!D-1!M, opener transfer his second suit, with up to 17 
  - 4!C/4!H: splinter
  - 4!D: !D Suit set
 
+# 1!M General Conventions
+## Gazilli
+### 1!M - 1NT
+ - 2!C: 6!M, 11-15 or various 15+
+   - Note: Gazilli can handle 15-16 Bal NT for [!H](#1h---1nt---2s) but not [!S](#1s---1nt---2c---2d---2h)
+ - 2!D: 4+!D, 11-15
+ - 2!M: 4+!C, 11-15
+ - (!H) 2!S: [ART, GF 6(331) or 5!S6!H](#1h---1nt---2s)
+ - (!S) 2!H: 4+!H, 11-**14**
+ - 2NT: [19+, 4+!C](#1m---1nt---2c---2d-2nt)
+ - 3!C: [19+, !M!D, 5/7+4,](#1m---1nt---2c---2d-3c)
+ - 3!D: [19+, !M!D, 55/64/6+5+](#1m---1nt---2c---2d-3d)
+ - 3!M: 6+!M, 16-**17**, good suit
+ - (!H) [3!S: =1!S, normal splinter](#1h---1nt),
+ - (!S) [3!H: 5!S5+!H, <16, INV (4!C=!H, 4!D=NAT)](#1s---1nt)
+ - 3NT: 0!oM, void splinter
+ - 4!m: 0!m, void splinter
+ - (!S) 4!H: NAT
+
+#### 1!M - 1NT - 2!C
+2!C: 6!M, 11-15 or various 15+
+ - 2!D: [8-12](#1m---1nt---2c---2d)
+ - 2!M: 7-, pref
+ - 2NT: 7-, !minors, (54)+
+ - 3!m: 7-, 6+!m
+
+##### 1!M - 1NT - 2!C - 2!D
+2!D: 8-12
+ - 2!M: 6+M, 11-15
+ - 2!oM: various, !oM/NT, [!H](#1h---1nt---2c---2d---2s)[!S](#1s---1nt---2c---2d---2h)
+ - 2NT: [16-18, 4+!C](#1m---1nt---2c---2d-2nt)
+ - 3!C: [16-18, !M!D, 5/7&4](#1m---1nt---2c---2d-3c)
+ - 3!D: [16-18, !M!D, 55/64/6+5+](#1m---1nt---2c---2d-3d)
+ - 3!M: 6+!M, 14-15
+ - 3!oM: 16+, 6+!M (GF), bad suit
+ - 3NT: To play
+ - 4!m: self-splinter (=1)
+
+#### 1!M - 1NT (- 2!C - 2!D) 2NT
+2NT: 4+!C, 19+/16-18 via Gazilli. 
+Followed by 3!C relay
+ - 3!D: !M!C 64/55/65
+   - 3!H: ask
+     - 3!S: 64 (TP/!M/!C)
+     - 3NT: 55 (!C)
+     - 4!C: 65
+ - 3!H: 5!M4!C, (N)
+ - 3!S: 5!M4!C, (L)
+ - 3NT: 5!M4!C, (H)
+ - 4!m: 7!M4!C
+
+#### 1!M - 1NT (- 2!C - 2!D) 3!C
+3!C: !M!D, =54/74, 19+/16-18 via Gazilla. 
+Followed by 3!D relay
+ - 3!H: 5!M4!D, (N)
+ - 3!S: 5!M4!D, (L)
+ - 3NT: 5!M4!D, (H)
+ - 4!m: 7!M4!D
+
+#### 1!M - 1NT (- 2!C - 2!D) 3!D
+3!D: !M!D, 64/55/65, 19+/16-18 via Gazilla. 
+Followed by 3!H relay
+ - 3!S: 64
+ - 3NT: 55
+ - 4!m: 65
+
 # 1!H Opening
 5+!H (10)11 + HCP
  - 1!S: 4+!S
@@ -391,12 +476,15 @@ General approach: After 1!D-1!M, opener transfer his second suit, with up to 17 
  - 3!C: (5)6-9HCP, 4+!H
  - 3!D: 10-12HCP, 3!H
  - 3!H: 0-5HCP, 4+!H
- - 3!S: Splinter ???
- - 3NT: ??
- - 4!C: Splinter
- - 4!D: Splinter
+ - 3!S: **Void** Splinter
+ - 3NT: !S Splinter
+ - 4!C: !C Splinter
+ - 4!D: !D Splinter
  - 4!H: Preemptive, To Play
- - 4!S: Keycard
+ - 4!S: **!H Keycard**
+ - 4NT: !S Exclusion
+ - 5!C: !C Exclusion
+ - 5!D: !D Exclusion
 
 ## 1!H - 1!S
 Gazilli is on. 
@@ -406,20 +494,68 @@ Gazilli is on.
 
 ## 1!H - 1NT
 1NT: (0)3-11 HCP Any shape can have 3!H
-
- - 2!C: 6+!H or 16+HCP
-   - 2!D: 8+HCP, Any
-   - 2!H: 1-3!H, <8HCP
-   - 2!S: 4!S, 18+
-   - 2NT: both !ms, <8HCP
-   - 3!C: 6+!C, <8HCP
+ - 2!C: 6+!H or 15+HCP
  - 2!D: 5+!H, 4+!D 11-15HCP
  - 2!H: 5+!H, 4+!C 11-15HCP
- - 2!S: 5+!H, 4+!S 16+HCP
- - 2NT: 18-19 Bal
- - 3!C: 5+!H, 5+!C 16+HCP
- - 3!D: 5+!H, 5+!D 16+HCP
- - 3!H: 6+!H, 16-18HCP
+ - 2!S: [ART, GF 6(331) or 5!S6!H](#1h---1nt---2s)
+ - 2NT: [19+, 4+!C,](#1m---1nt---2c---2d-2nt)
+ - 3!C: [19+, !H!D, 5/7+4,](#1m---1nt---2c---2d-3c)
+ - 3!D: [19+, !H!D, 55/64/6+5+](#1m---1nt---2c---2d-3d)
+ - 3!H: 6+!H, 16-17HCP, good suit
+ - 3!S: 1!S
+
+### 1!H - 1NT - 2!S
+2!S: ART, GF 6(331) or 5!S6!H.
+Followed by 2NT ask
+ - 3!C: 6(331), GF
+   - 3!D: ask
+     - 3!H: 3631 (L)
+     - 3!S: 3613 (M)
+     - 3NT: 1633 (H)
+ - 3!D: 5!S6!H, **weak**
+ - 3!H: 5!S6!H, 5611 (N)
+ - 3!S: 5!S6!H, 5620 (L)
+ - 3NT: 5!S6!H, 5602 (H)
+
+### 1!H - 1NT - 2!C - 2!D - 2!S
+2!S: 15-19NT, or 16+ 4!S
+ - 2NT: 8HCP, to play opposite 15-16NT
+   - 3!C: DNE
+   - 3!D+ same as below
+ - 3!C: ART Relay
+   - 3!D: 45(31), treat =4522 as NT
+     - 3!H: ask
+       - 3!S: =4531 (L)
+       - 3NT: =4513 (H)
+   - 3!H: 6+!H, 18-19, 6322/7+
+   - 3!S: 6+!H, 4!S, 15+
+   - 3NT: 15-19NT, can be 4522
+     - 4!m: NAT
+       - 4!H: To Play
+       - +1: agree !m
+       - 4NT: No
+   - 4!m: self-setting !H
+
+### 1!H - 1NT - 6+!H summary
+Requires 6+!H
+ - 11-14: 2!C-2!D-2!H
+ - 14-15: 2!C-2!D-3!H
+ - 16+, bad suit: [2!C-2!D-3!S](#1m---1nt---2c---2d)
+ - 16-17:
+   - good suit: 3!H
+   - 4+!C: 2!C-2!D-2NT
+   - 4+!D: 2!C-2!D-3!C (54/74)/3!D (64/55/65)
+ - 18-19:
+   - 6331: 2!S-2NT-3!C (LMH)
+   - 6322/7?: 2!C-2!D-2!S-2NT/3!C-3!H
+   - 4+!C: 2NT
+   - 4+!D: 3!C (54/74)/3!D (10+)
+   - 7+ (good), Singleton: 3!S OR 2!C-2!D-2!S-2NT/3!C-4!m+
+   - 7+ (good), VOID: 3NT/4!C/4!D (!S/!C/!D)
+ - 4!S, 16+: 2!C-2!D-2!S-2NT/3!C-3!S
+ - 5!S, (13)15+: 2!S-2NT-3!D (weak)/3!H (N)/3!S (L)/3NT (H)
+
+[Compare to !S](#1s---1nt---6s-summary)
 
 ## 1!H - 2!C
 2!C: (0)2+!C 12+ HCP, GF, Relay
@@ -451,6 +587,86 @@ Gazilli is on.
      - 3!D: 2542 (!D, N)
      - 3!H: 3541 (!D, L)
      - 3!S: 1543 (!D, H)
+
+# 1!S Opening
+ - 1NT: (0)3-11 HCP Any shape can have 3!S
+ - 2!C: (0)2+!C 12+ HCP, GF, Relay
+ - 2!D: 5+!D 12+ HCP, GF
+ - 2!H: 5+!H 12+ HCP, GF
+ - 2!S: 7-10HCP 3+!S
+ - 2NT: 10+HCP, 4+!S
+ - 3!C: (5)6-9HCP, 4+!S
+ - 3!D: 10-12HCP, 3!H
+ - 3!H: weak, 6+!H
+ - 3!S: 0-5HCP, 4+!S
+ - 3NT: Void Splinter
+ - 4!C: !C Splinter
+ - 4!D: !D Splinter
+ - 4!H: !H Splinter
+ - 4!S: Preemptive, To Play
+ - 4NT: !S Keycard
+ - 5!C: !C Exclusion
+ - 5!D: !D Exclusion
+ - 5!H: !H Exclusion
+ - 
+## 1!S - 1NT
+1NT: (0)3-11 HCP Any shape can have 3!S
+ - 2!C: 6+!S or 15+HCP
+ - 2!D: 5+!S, 4+!D 11-15HCP
+ - 2!H: 5+!S, 4+!H 11-15HCP
+ - 2!S: 5+!S, 4+!C 11-15HCP
+ - 2NT: [19+, 4+!C,](#1m---1nt---2c---2d-2nt)
+ - 3!C: [19+, !H!D, 5/7+4,](#1m---1nt---2c---2d-3c)
+ - 3!D: [19+, !H!D, 55/64/6+5+](#1m---1nt---2c---2d-3d)
+ - 3!H: 5!S5+!H, <16, INV (4!C=!H, 4!D=NAT)
+ - 3!S: 6+!S, 16-**17**, good suit
+
+### 1!S - 1NT - 2!C - 2!D
+ - 2!H: 15+ 5+!S 4+!H, or 15-19NT, or 16+ 6+!S bad suit
+ - 3!H: 16+, 6+!S, bad suit
+ - 3!S: 14-15, 6+!S
+ - 3NT: To play
+ - 4X: self-splinter (1)
+
+#### 1!S - 1NT - 2!C - 2!D - 2!H
+2!H: 15+ 5+!S 4+!H, or 15-19NT
+ - 2!S: Relay
+   - 2NT: (16)17-19 NT
+   - 3!C: !S!H, 54/74
+     - 3!D: Ask
+       - 3!H: 5422 (N)
+       - 3!S: 5431 (L)
+       - 3NT: 5413 (H)
+       - 4!C: 74
+   - 3!D: !S!H, 64/55/65
+     - 3!H:
+       - 3!S: 64
+       - 3NT: 55
+       - 4!m: 65
+   - 3!H: 16+, 6+!S, 3!H
+   - 3!S: 18-19, 6+!S, good suit, no 3!H
+ - 2NT: 55 !minors
+ - 3!: NAT
+
+### 1!S - 1NT - 6+!S summary
+Requires 6+!S
+ - 11-14: 2!C-2!D-2!S
+ - 14-15: 2!C-2!D-3!S
+ - 16+, bad suit: [2!C-2!D-3!H](#1m---1nt---2c---2d)
+ - 16-17:
+   - good suit: 3!S
+   - 4+!C: 2!C-2!D-2NT
+   - 4+!D: 2!C-2!D-3!C (54/74)/3!D (10+)
+ - 18-19:
+   - 3!H: 2!C-2!D-2!H-2!S-3!H
+   - 4+!C: 2NT
+   - 4+!D: 3!C (54/74)/3!D (64/55/65)
+   - 7+ (good), Singleton: 2!C-2!D-2!H-2!S-4X
+   - 7+ (good), VOID: 3NT/4!C/4!D (!S/!C/!D)
+ - 4!H, 16+: 2!C-2!D-2!H-2!S-3!C (54/74)/3!D (64/55/65)
+ - 5+!H, <16: 3!H/4!H
+
+[Compare to !H](#1h---1nt---6h-summary)
 
 # 3NT Opening
 3NT: nil: normal 4!M preempt; vul: gambling
