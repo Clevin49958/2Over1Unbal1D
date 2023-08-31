@@ -85,15 +85,24 @@ Ver 1.0.0
 
 # 1!m General conventions
 ## XYZ
-General response to XYZ:
-Optionaly break 2!C - 2!D when 15+
- - 2!M: 
-   - after confirming 3 card: anti-positional
-   - after denying 3 card: Hx
- - 2oM: 4oM
- - 2NT: waiting
- - 3!C: 5!C after 1!C
- - 3!D: 5!D after 1!C
+General response to XYZ after 1!C:
+ - 2!C - 2!D:
+    Optionaly break forced 2!D when 15+ or break with 2M when subminimum 4 card support
+    - 2!M: 
+      - after showing exactly 3M: anti-positional
+      - after denying 3 card: Hx
+    - 2oM: 4oM
+    - 2NT: positional
+    - 3!C: 5!C after 1!C
+    - 3!D: 5!D after 1!C
+ - 2NT: forces 3!C can be passed weak or various (54) !C + M GF hands
+   - 3!D: 5!M/4!C low shortage(M/!C/to play)
+   - 3!H: 5!M/4!C high shortage(M/to play/!C/cue for !C)
+   - 3!S: 4!M/5!C low shortage(to play/!C/cue for !C)
+   - 3!NT: 4!M/5!C high shortage(!C/cue for !C)
+ - 3!C: 5!C/5M GF
+ - 3!D: 5!D/5M GF
+   
 
 Over 1!C or 1!D, if XYZ is available, responder jump rebid major is GF, otherwise INV.
 
@@ -103,7 +112,7 @@ Over 1!C or 1!D, if XYZ is available, responder jump rebid major is GF, otherwis
  - 1!H: 4!S
  - 1!S: No 4!M, or 5+!D + 4!M GF
  - 1NT: 11-12, bal
- - 2!C: 11+ 5+!C
+ - 2!C: 11+ 5+!C, (no interest in playing 4M?)
  - 2!D: 6+!D, no 4!M, GF
  - 2!M: 6!M, 4-7 HCP
  - 2NT: (5)6+!C, 0-6 HCP
@@ -114,8 +123,8 @@ Over 1!C or 1!D, if XYZ is available, responder jump rebid major is GF, otherwis
 1!D: 4!H
 
  - 1!H: 3!H, ~17 HCP,
-   - 1!S: 8-11 **Bal**
-   - 1NT: 8-11 **4!H-4!S**
+   - 1!S: 8-10(11) **Bal**
+   - 1NT: 8-10(11) **4!H-4!S**
    - XYZ
      - 2!H: anti-positional NT
  - 1!S: 4+!S, Unbal, unlimited, F1
