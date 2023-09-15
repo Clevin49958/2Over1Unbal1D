@@ -1,6 +1,6 @@
 # Kevin Hu - Zachary Yan 2/1 with unbal 1!D
 
-Ver 1.0.0
+Ver 1.0.1
 
 # General Approach
 - 2/1
@@ -24,6 +24,7 @@ Ver 1.0.0
 - [1!C Opening](#1c-opening)
   - [1!C - 1!D](#1c---1d)
   - [1!C - 1!H](#1c---1h)
+    - [1!C - 1!M-1 - 2NT](#1c---1m-1---2nt)
   - [1!C - 1!S](#1c---1s)
   - [1!C - 1!S - 1NT](#1c---1s---1nt)
   - [1!C - 1NT](#1c---1nt)
@@ -212,6 +213,24 @@ Similar to [1!D](#1c---1d) response.
  - 4!D: !D Splinter GF
  - 4!H: !H Splinter GF
  - 4!S: 6+!C 4+!S (any usually shit)
+
+### 1!C - 1!M-1 - 2NT
+18-19, bal. XYZ style follow up.
+
+ - 3!C: Forces 3!D
+   - 3!D:
+     - P: to play in !D
+     - 3!M: to play in !M
+     - (!H)3S: 56 GF
+     - (!S)3H: 55 GF
+     - 3NT: SI in opener's !minor
+ - 3!D: GF checkback. up to 54 in !M. Doesn't promise extra major.
+   - 3!M: up the line
+     - 3!NT: To play. Does **not ** promise other major
+ - 3!M: 6+, suit set
+ - (!H)3S: 46 (4!C=!H, 4!D=!S)
+ - (!S)3H: 64 (3!S=!S, 4!m=cue for !H)
+ - 3!NT: SI in other !minor
 
 ## 1!C - 1!S
  - 1NT: 11-14 BAL
@@ -627,7 +646,7 @@ Requires 6+!H
  - 3!S: 6+!S, 16-**17**, good suit
 
 ### 1!S - 1NT - 2!C - 2!D
- - 2!H: 15+ 5+!S 4+!H, or 15-19NT, or 16+ 6+!S bad suit
+ - 2!H: 15+ 5+!S 4+!H, or 15-19NT
  - 3!H: 16+, 6+!S, bad suit
  - 3!S: 14-15, 6+!S
  - 3NT: To play
