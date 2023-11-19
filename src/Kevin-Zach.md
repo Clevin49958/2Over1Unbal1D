@@ -61,6 +61,7 @@ Ver 1.0.2
   - [Transfer in competition](#transfer-in-competition)
   - [Good/bad 2NT](#goodbad-2nt)
 - [General Conventions](#general-conventions)
+  - [Slam Bidding](#slam-bidding)
   - [Lebensohl](#lebensohl)
 - [TODO](#todo)
 
@@ -621,6 +622,20 @@ Requires 6+!H
      - 3!D: 2542 (!D, N)
      - 3!H: 3541 (!D, L)
      - 3!S: 1543 (!D, H)
+ - 2!H: 6+!H
+   - 2NT: 2!H
+     - 3!H: waiting
+     - 3X: NAT
+   - 3!H: 3!H
+ - 2!S: 4!S
+ - 2NT: 5(440)
+ - 3!C: 5!C
+   - 3!D: ask
+     - 3!H: min
+     - 3!S: max
+ - 3!D: 5!D, min
+ - 3!H: suit set
+ - 3!S: 5!D, max
 
 # 1!S Opening
  - 1NT: (0)3-11 HCP Any shape can have 3!S
