@@ -1,6 +1,6 @@
 # Kevin Hu - Zachary Yan 2/1 with unbal 1!D
 
-Ver 1.0.1
+Ver 1.0.2
 
 # General Approach
 - 2/1
@@ -12,7 +12,7 @@ Ver 1.0.1
 - 3rd/low vs Suit Contracts
 - 2nd/4th vs NT Contracts (3rd/low after supporting partners suit)
 - UDCA
-- Smith Echo in NT Contracts
+- Smith Echo in NT Contracts 
 
 # Table of Content
 - [Kevin Hu - Zachary Yan 2/1 with unbal 1!D](#kevin-hu---zachary-yan-21-with-unbal-1d)
@@ -57,7 +57,7 @@ Ver 1.0.1
     - [1!S - 1NT - 6+!S summary](#1s---1nt---6s-summary)
 - [3NT Opening](#3nt-opening)
 - [In competition](#in-competition)
-  - [1!M (X) 2!D](#1m-x-2d)
+  - [Transfer in competition](#transfer-in-competition)
   - [Good/bad 2NT](#goodbad-2nt)
 - [General Conventions](#general-conventions)
   - [Lebensohl](#lebensohl)
@@ -704,9 +704,18 @@ Requires 6+!S
 
 # In competition
 
-## 1!M (X) 2!D
- - 2!D: Good raise in !M (8-10)
- - 2!M: Bad raise in !M (3-7)
+## Transfer in competition
+
+Applicapable scenario:
+ - 1!M (X) ?
+ - (1!m) 1!M (X) ?
+
+Convention:
+ - 1NT: !C
+ - 2X: 2X+!
+ - 2!M-1: good raise in !M
+ - 2!M: bad raise in !M
+ - Transfer into opponents suit: cue raise
 
 ## Good/bad 2NT
 After 
