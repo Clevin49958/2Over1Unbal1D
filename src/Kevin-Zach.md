@@ -2,6 +2,7 @@
 
 Ver 1.0.2
 
+
 # General Approach
 - 2/1
 - Balanced 1!C (can have 5!D2!C)
@@ -69,19 +70,19 @@ Ver 1.0.2
  - 1!H: 5+!H (10)11-22 HCP
  - 1!S: 5+!S (10)11-22 HCP
  <!-- TODO: 1NT -->
- - 1NT: 15-17 HCP, can have 5!M, 6!m (usually doesn't have 4 card side suit if maximum)
+ - 1NT: 14+-17 HCP, can have 5!M, 6!m (usually doesn't have 4 card side suit if maximum)
  - 2!C: 22+ HCP Bal, or 20+ Unbal
  - 2!D/2!H/2!S: 
     - Weak, preemptive
       - Fav 5, 0-7 HCP
       - Nil 5-6, 4-8 HCP
       - Vul, 6, 6-10 HCP
-      - Unfav, 6, 6-10 HCP AJT9xx+
+      - Unfav, 6, 6-10 HCP AJTxxx+
  - 2NT: 20-21 Bal, can have 5!M, 6!m
  - 3x: NAT
  - 3NT:
    - Nonvul: normal 4!M preempt
-   - Vul: Gambling 7 card **any** suit
+   - Vul: Gambling 7 card **Major** suit
  - 4NT: Specific Ace Ask
 
 # 1!m General conventions
@@ -120,7 +121,11 @@ Over 1!C or 1!D, if XYZ is available, responder jump rebid major is GF, otherwis
    - XYZ
      - 2!H: anti-positional NT
  - 1!S: 4+!S, Unbal, unlimited, F1
-   - XYZ
+   - **NO XYZ**
+   - jump = Invite
+   - 1!C-1!D-1!S-2!D:
+     - 2!H 4=2=2=5
+     - 3!H 4=3=1=5
  - 1NT: 2-!H
    - XYZ:
      - 2!H: Hx
@@ -168,7 +173,8 @@ Over 1!C or 1!D, if XYZ is available, responder jump rebid major is GF, otherwis
  - 3!D: 4!H, (16)17-18 or 18-19 BAL
    - 3!H: To play
    - 3!S: ASK
-     - 3NT/4!C/!D: Bal/L/H
+     - 3NT/4!C/!D/!H: Bal/L/H/2=4=2=5
+   - 3NT/4!C/4!H: L/M/H Shortage
    - 4!D: re-transfer
  - 3!H: 4!H, 13-17+ Unbal Inv
  - 3!S: !S Splinter GF
@@ -197,10 +203,14 @@ Similar to [1!D](#1c---1d) response.
    - 3!D wiggle?
    - 3!H/!S: 6+!H/!S GF
  - 3!D: 4!S, (16)17-18 or 18-19 BAL
-   - 3!H: re-transfer?
-   - 3!S: ASK?
-     - 3NT/4!C/!D: Bal/L/H
-   - 4!D: re-transfer
+   - 3!H: Ask
+     - 3!S: **Low Shortage**
+     - 3NT: **No Shortage**
+     - 4!C: High Shortage
+     - 4!D: 4=2=2=5
+   - 3!S: To Play
+   - 3NT/4!C/4!D: L/M/H Shortage
+   - 4!H: re-transfer
  - 3!H: 6+!C, 3!S, (14)15+
    - 3!S: To Play
    - 3NT: To Play
@@ -621,7 +631,7 @@ Requires 6+!H
  - 2NT: 10+HCP, 4+!S
  - 3!C: (5)6-9HCP, 4+!S
  - 3!D: 10-12HCP, 3!H
- - 3!H: weak, 6+!H
+ - 3!H: INV, 6+!H, <2 !S
  - 3!S: 0-5HCP, 4+!S
  - 3NT: Void Splinter
  - 4!C: !C Splinter
@@ -702,6 +712,10 @@ Requires 6+!S
     - 4!H/4!S: reverse. Follow by 4!S/4NT keycard
  - 4!H: P/C
 
+ SHOULD REVIEW THIS
+ "Shows a solid 7M* up to K + Q outside no void "
+ "•	At 1st seat fav: Does not have to be a solid major, just a good 4M in context (AQJT-7 + A = good minimum) "
+
 # In competition
 
 ## Transfer in competition
@@ -724,11 +738,17 @@ After
 
 The opener may wish to compete in a !minor at 3 level.
 
- - 2NT: Competing. 11~14
- - 3!m: INV, 15~17
+ - 2NT: Strong minor hand, inv +
+ - 3!m: To Play competitive
+ - 1!D-1X-2Y-3!C: To Play competitive
 
 # General Conventions
 
+## Slam Bidding
+ - Last Train
+ - After Keycard, +1 Q ask if 14/30, +2 K ask bid K or other 2 K confirm all KC, forced unless P is very limited
+ - 3!S Non-serious for !H
+ - 4!S Kickback for !H
 ## Lebensohl
 
 After `(2X) X (P)`,
@@ -744,3 +764,6 @@ After `(2X) X (P)`,
  - Transfer in competition
  - To document: 
    - 1!S - 2!C
+ - 1m-1M-2N ...
+ - Good bad
+ - 1NT
