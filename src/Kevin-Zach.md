@@ -6,11 +6,12 @@
 - Transfers after 1!C
 - Transfers after 1!D-1!M
 - Agressive Favorable Preempts
+- Agressive 1st fav openings
 - Short Suit Trial
 - 3rd/low vs Suit Contracts
 - 2nd/4th vs NT Contracts (3rd/low after supporting partners suit)
 - UDCA
-- Smith Echo in NT Contracts 
+- Reverse Smith Echo in NT Contracts 
 
 # Table of Content
 - [Kevin Hu - Zachary Yan 2/1 with unbal 1!D](#kevin-hu---zachary-yan-21-with-unbal-1d)
@@ -252,13 +253,7 @@ Similar to [1!D](#1c---1d) response.
    - 2!D:
      - Pass: weak !D
      - Anything else: Bal 13+ NAT
- - **2!M-1:** 4!M, Could be weak, 5+431/4414 if weak, F1
-   - 2!M: 4!M, bad hand
-   - 2!M+1: 4!M, query
-     - 2!M+2: weak hand
-       - 2!M+3: re-ask
-       - 3!M-1/3!M: L/H shortage
-     - 2!M+(3+): strong hand
+ - 2!D: NAT, INV
  - 2!M: 5!D4!M GF
  - 2NT: both !ms, weak or GF
  - 3!D: sharp !D INV
@@ -267,9 +262,13 @@ Similar to [1!D](#1c---1d) response.
 ## 1!C - 1NT
 1NT: 11-12
  - 2!C: To play
- - 2!D: Nat Reverse GF
- - 2!H: 5+!C 4!H unbal NF
- - 2!S: 5+!C 4!S unbal NF
+ - **2!M-1:** 4!M, Could be weak, 5+431/4414 if weak, F1
+   - 2!M: 4!M, bad hand
+   - 2!M+1: 4!M, query
+     - 2!M+2: weak hand
+       - 2!M+3: re-ask
+       - 3!M-1/3!M: L/H shortage
+     - 2!M+(3+): strong hand
  - 2NT: GF Stayman
    - 3!C: 4!H
      - 3!D: Mild Slam Interest+ in !C
