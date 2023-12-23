@@ -1,8 +1,5 @@
 # Kevin Hu - Zachary Yan 2/1 with unbal 1!D
 
-Ver 1.0.2
-
-
 # General Approach
 - 2/1
 - Balanced 1!C (can have 5!D2!C)
@@ -56,6 +53,7 @@ Ver 1.0.2
     - [1!S - 1NT - 2!C - 2!D](#1s---1nt---2c---2d)
       - [1!S - 1NT - 2!C - 2!D - 2!H](#1s---1nt---2c---2d---2h)
     - [1!S - 1NT - 6+!S summary](#1s---1nt---6s-summary)
+- [1NT Opening](#1nt-opening)
 - [3NT Opening](#3nt-opening)
 - [In competition](#in-competition)
   - [Transfer in competition](#transfer-in-competition)
@@ -724,8 +722,38 @@ Requires 6+!S
 
 [Compare to !H](#1h---1nt---6h-summary)
 
+# 1NT Opening
+Can have 5!M, 6!m.
+
+ - 2!C: stayman
+   - 2!D:
+     - 2!M: INV Smolen
+     - 3!m: 4!oM, 5+!m, GF
+     - 3!M: GF Smolen
+     - 3NT: Quant
+ - 2!D: !H
+   - 2!H:
+     - 2!S: 55, INV
+   - 2NT: 4!H, Max
+     - 3!D: re-transfer
+   - 3X: 5!H, 5332
+   - 3!H: 4!H, min
+ - 2!H: !S
+   - 2!S: 
+     - 3!H: 55, GF
+ - 2!S: Range Finder/!C
+   - 2NT: min
+   - 3!C: max
+     - 3X: GF + !C with shortage
+ - 2NT: !D
+ - 3!C: Puppet (Usually bare GF)
+ - 3!D: !ms GF
+ - 3!H: 31(45)
+ - 3!S: 13(45)
+ - 3NT: To play
+ - 
 # 3NT Opening
-3NT: nil: normal 4!M preempt; vul: gambling
+3NT: 1st fav: normal 4!M preempt; others: gambling in !M
  - 4!C: SI
     - 4!D/4!H: H/S no
     - 4!S: Slam in H
@@ -781,6 +809,7 @@ When 2!C simple stayman is possible, 3!C is normal puppet stayman. 3!D=4!M. Othe
  - After Keycard, +1 Q ask if 14/30, +2 K ask bid K or other 2 K confirm all KC, forced unless P is very limited
  - 3!S Non-serious for !H
  - 4!S Kickback for !H
+
 ## Lebensohl
 
 After `(2X) X (P)`,
@@ -792,10 +821,8 @@ After `(2X) X (P)`,
  - 3NT: no stopper, no 4!M, generally no 5 card suit.
 
 # TODO
- - 1M-2D
  - Transfer in competition
  - To document: 
    - 1!S - 2!C
+   - 1!M - 2!D
  - 1m-1M-2N ...
- - Good bad
- - 1NT
