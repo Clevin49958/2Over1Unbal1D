@@ -61,6 +61,7 @@ Ver 1.0.2
   - [Transfer in competition](#transfer-in-competition)
   - [Good/bad 2NT](#goodbad-2nt)
 - [General Conventions](#general-conventions)
+  - [Modified puppet stayman](#modified-puppet-stayman)
   - [Slam Bidding](#slam-bidding)
   - [Lebensohl](#lebensohl)
 - [TODO](#todo)
@@ -253,7 +254,13 @@ Similar to [1!D](#1c---1d) response.
    - 2!D:
      - Pass: weak !D
      - Anything else: Bal 13+ NAT
- - 2!D: NAT, INV
+ - **2!M-1:** 4!M, Could be weak, 5+431/4414 if weak, F1
+   - 2!M: 4!M, bad hand
+   - 2!M+1: 4!M, query
+     - 2!M+2: weak hand
+       - 2!M+3: re-ask
+       - 3!M-1/3!M: L/H shortage
+     - 2!M+(3+): strong hand
  - 2!M: 5!D4!M GF
  - 2NT: both !ms, weak or GF
  - 3!D: sharp !D INV
@@ -741,7 +748,7 @@ Applicapable scenario:
 
 Convention:
  - 1NT: !C
- - 2X: 2X+!
+ - 2X: 2X+1
  - 2!M-1: good raise in !M
  - 2!M: bad raise in !M
  - Transfer into opponents suit: cue raise
@@ -759,7 +766,17 @@ The opener may wish to compete in a !minor at 3 level.
 
 # General Conventions
 
+## Modified puppet stayman
+When 2!C simple stayman is possible, 3!C is normal puppet stayman. 3!D=4!M. Otherwise it's modified as below.
+
+ - 3!D: No 4!M
+ - 3!H: 4/5!H
+   - 3!S: !H SI
+ - 3!S: 4!S
+ - 3NT: 5!S
+
 ## Slam Bidding
+
  - Last Train
  - After Keycard, +1 Q ask if 14/30, +2 K ask bid K or other 2 K confirm all KC, forced unless P is very limited
  - 3!S Non-serious for !H
