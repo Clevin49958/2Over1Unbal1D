@@ -263,12 +263,11 @@ Similar to [1!D](#1c---1d) response.
 1NT: 11-12
  - 2!C: To play
  - **2!M-1:** 4!M, Could be weak, 5+431/4414 if weak, F1
-   - 2!M: 4!M, bad hand
-   - 2!M+1: 4!M, query
-     - 2!M+2: weak hand
-       - 2!M+3: re-ask
-       - 3!M-1/3!M: L/H shortage
-     - 2!M+(3+): strong hand
+   - 2!M: 4!M, non-forcing query
+     - +1: weak hand
+       - +1: re-ask
+         - +1/+2: L/H shortage
+     - +2 or higher: strong hand, None/L/H
  - 2NT: GF Stayman
    - 3!C: 4!H
      - 3!D: Mild Slam Interest+ in !C
