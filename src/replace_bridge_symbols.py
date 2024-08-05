@@ -16,7 +16,7 @@ symbols = {
 
 def generate_anchor_tags(input):
     """Detect headings in md and generate anchor tags for them"""
-    pattern = r"(#+)\s([\d\w \-\!\(\)\/]+)\n"  # regex pattern to detect headings
+    pattern = r"(#+)\s([\d\w \-\!\(\)\/+]+)\n"  # regex pattern to detect headings
 
     anchor_counter = defaultdict(int)  # counter for anchor tags
     # while there are still headings in the input string
